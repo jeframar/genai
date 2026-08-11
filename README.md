@@ -1,86 +1,72 @@
-# Generador y Extractor Estructurado de Documentos PDF con Gemini API
+# GenAI Paper Processing Pipeline
 
-Este repositorio contiene un flujo de trabajo optimizado en Python para procesar documentos PDF largos utilizando la API oficial de **Google Gemini (`google-genai`)**, extraer su jerarquía y rellenar progresivamente su texto completo de forma estructurada.
-
----
-
-## 🛠️ Requisitos e Instalación
-
-### 1. Configuración de Variables de Entorno
-Crea un archivo `.env` en la raíz del repositorio con tu clave de API de Google AI Studio:
-
-```env
-GEMINI_API_KEY="tu_clave_aqui"
-```
-
-### 2. Instalación de Dependencias
-El proyecto utiliza `uv` para la gestión de entornos y dependencias:
-
-```bash
-uv sync
-```
+Este repositorio contiene un pipeline modular de 4 pasos automatizados en Python para extraer, completar, formatear y auditar la calidad de documentos y papers académicos en PDF utilizando la API de Google Gemini (`gemini-2.5-flash`).
 
 ---
 
-## 🚀 Flujo de Trabajo
+## 🛠️ Requisitos Previos
 
-### Paso 1: Generación del Schema Jerárquico
-Selecciona un archivo PDF mediante el explorador de archivos. El script analizará la estructura del documento y generará un archivo `schema.json` con los títulos y subtítulos del PDF (sin incluir el contenido de los párrafos).
+- **Python 3.10+** (probado con Python 3.14)
+- **uv** (Administrador de paquetes rápido para Python)
+- Clave de API de Gemini (`GEMINI_API_KEY`) configurada en un archivo `.env`.
 
+### Configuración del Entorno
+
+1. Clona o abre este repositorio.
+2. Crea un archivo `.env` en la raíz del repositorio con tu API Key:
+   ```env
+   GEMINI_API_KEY="tu_api_key_aqui"
+   ```
+
+3. Sincroniza las dependencias con `uv`:
+   ```bash
+   uv sync
+   ```
+
+---
+
+## 🚀 Flujo de Trabajo (Pipeline de 4 Pasos)
+
+### Paso 1: Generar la Estructura Jerárquica (`generar_schema.py`)
+Selecciona un PDF desde el explorador de archivos nativo y analiza la tabla de contenidos / estructura sin extraer párrafos completos.
 ```bash
 uv run python generar_schema.py
 ```
-* **Salida generada:** `schema.json`
+* **Resultado:** Crea `schema.json` con la plantilla del documento.
 
 ---
 
-### Paso 2: Extracción Completa Sección por Sección
-Carga el `schema.json` generado en el paso anterior y realiza llamadas independientes por cada sección para extraer el texto textual completo e íntegro del PDF.
-
-**Características:**
-* **Búsqueda Implícita:** Detecta secciones sin título explícito (como la Introducción).
-* **Manejo de Reintentos:** Ante errores temporales (ej. `503 UNAVAILABLE`), realiza hasta 2 reintentos con 2 segundos de espera.
-* **Persistencia y Reanudación:** Guarda el avance automáticamente tras cada sección exitosa en `texto_final.json`. Si el proceso se interrumpe, se puede reanudar exactamente desde la sección pendiente.
-
+### Paso 2: Extraer y Completar el Texto Sección por Sección (`completar_texto.py`)
+Carga `schema.json`, sube el PDF a Gemini 1 sola vez y extrae el texto sección por sección con manejo de límites de cuota (reintentos 429), reanudación automática, omitiendo referencias y aplicando una limpieza determinística universal de pies de página (rutas `.doc`/`.pdf`, fechas de impresión, números de página).
 ```bash
 uv run python completar_texto.py
 ```
-* **Salida generada:** `texto_final.json`
+* **Resultado:** Crea `texto_final.json` guardando el avance incrementalmente.
 
 ---
 
-### Paso 3: Conversión a Documento Markdown
-Convierte el objeto JSON `texto_final.json` (o `schema.json`) en un documento Markdown bien formateado, traduciendo la jerarquía del JSON a encabezados Markdown (`#`, `##`, `###`, etc.) y conservando los títulos incluso si no contienen texto.
-
+### Paso 3: Convertir a Documento Markdown (`json_a_markdown.py`)
+Transforma `texto_final.json` en un documento `.md` respetando jerarquías (`#`, `##`, `###`), eliminando títulos duplicados al inicio de los párrafos y aplicando filtros Regex universales contra footers.
 ```bash
 uv run python json_a_markdown.py
 ```
-* **Salida generada:** `texto_final.md`
+* **Resultado:** Genera `texto_final.md`.
 
 ---
 
-## 📊 Herramientas Auxiliares
+### Paso 4: Auditoría de Calidad y Ortografía (`analizar_markdown.py`)
+Audita `texto_final.md` en busca de caracteres corruptos (`\ufffd`), dobles espacios, puntuación desalineada, saltos de línea excesivos, paréntesis desbalanceados y realiza una revisión de estilo y ortografía.
+```bash
+uv run python analizar_markdown.py
+```
+* **Resultado:** Genera el informe detallado `reporte_calidad.txt`.
 
-### Contador de Tokens de la API
-Permite seleccionar cualquier archivo desde el explorador y calcular la cantidad exacta de tokens procesados por el modelo `gemini-2.5-flash`.
+---
 
+## 🛠️ Herramientas Adicionales
+
+### Contador de Tokens (`contar_tokens.py`)
+Cuenta el número exacto de tokens de un archivo PDF seleccionado desde el explorador.
 ```bash
 uv run python contar_tokens.py
-```
-
----
-
-## 📁 Estructura del Repositorio
-
-```text
-genai/
-├── .env                  # Clave de API de Gemini
-├── pyproject.toml        # Configuración de dependencias (google-genai, json-repair, python-dotenv)
-├── generar_schema.py     # Paso 1: Generación del schema JSON
-├── completar_texto.py    # Paso 2: Poblado sección por sección del texto completo
-├── json_a_markdown.py    # Paso 3: Conversión de JSON a documento Markdown (.md)
-├── contar_tokens.py      # Contador oficial de tokens de Gemini API
-├── schema.json           # Estructura jerárquica del documento
-├── texto_final.json      # Documento final poblado con el texto completo
-└── texto_final.md        # Documento renderizado en formato Markdown
 ```

@@ -1,0 +1,78 @@
+=================================================================
+        REPORTE DE AUDITORÍA DE CALIDAD Y ORTOGRAFÍA (MARKDOWN)  
+=================================================================
+Archivo analizado:    texto_final.md
+Fecha de análisis:    2026-08-11 18:39:15
+Estadísticas:         972 líneas | 13,492 palabras
+=================================================================
+
+--- 1. CARACTERES CORRUPTOS Y SÍMBOLOS EXTRAÑOS ---
+[OK] No se detectaron caracteres corruptos de decodificación.
+
+--- 2. ERRORES DE ESPACIADO Y PUNTUACIÓN ---
+[OK] No se detectaron múltiples espacios ni espacios innecesarios antes de puntuación.
+
+--- 3. FALTA DE ESPACIO DESPUÉS DE PUNTUACIÓN ---
+[OK] Formato de puntuación y espaciado correcto.
+
+--- 4. ERRORES DE SALTOS DE LÍNEA EXCESIVOS ---
+[OK] Distribución de saltos de línea e interlineado correcto.
+
+--- 5. BALANCE DE PARÉNTESIS Y CORCHETES ---
+Línea 29: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "media audits, medical audits – even stress audits' and ‘audits of auditing systems' (Power"
+Línea 30: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "1994:1). These trends continued under Britain'"
+Línea 154: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "reprehensible and against applicable laws because it had put profits above public safety' "
+Línea 155: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "2005:63). The court awarded Armstrong and her children compensatory damages of $107"
+Línea 193: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "acquired their own terminology such as ‘salami slicing' (cutting research results into sma"
+Línea 195: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "as soon as they are available rather than making a mature and considered analysis) and the"
+Línea 201: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "shame, rather than developmentally to internally diagnose and remedy problems (Foley and"
+Línea 202: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "Goldstein 2012)."
+Línea 245: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "evident in the classification of ‘failing schools', 'lowest ranking cadet' (such as the “W"
+Línea 246: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "Point's goat"), and Fortune's ‘most admired' human resources department."
+Línea 254: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "incentives, and every individual is impelled to concentrate on ‘what counts' (Wright"
+Línea 255: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "forthcoming). It was to avoid such a pervasive effect that Australia's Higher Education mi"
+Línea 276: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "rankings produce among individuals who are driven to over-perform (King and Moutsou 2010;"
+Línea 277: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "Wright 2011). As a BBC ‘Panorama' investigation into the employment conditions at one of"
+Línea 384: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "reprehensible and against applicable laws because it had put profits above public safety' "
+Línea 385: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "2005:63). The court awarded Armstrong and her children compensatory damages of $107"
+Línea 426: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "acquired their own terminology such as ‘salami slicing' (cutting research results into sma"
+Línea 428: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "as soon as they are available rather than making a mature and considered analysis) and the"
+Línea 434: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "shame, rather than developmentally to internally diagnose and remedy problems (Foley and"
+Línea 435: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "Goldstein 2012)."
+Línea 482: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "evident in the classification of ‘failing schools', 'lowest ranking cadet' (such as the “W"
+Línea 483: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "Point's goat"), and Fortune's ‘most admired' human resources department."
+Línea 492: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "incentives, and every individual is impelled to concentrate on ‘what counts' (Wright"
+Línea 493: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "forthcoming). It was to avoid such a pervasive effect that Australia's Higher Education mi"
+Línea 516: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "rankings produce among individuals who are driven to over-perform (King and Moutsou 2010;"
+Línea 517: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "Wright 2011). As a BBC ‘Panorama' investigation into the employment conditions at one of"
+Línea 592: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "with proper regard for the applicable technical and professional standards expected of it'"
+Línea 593: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "2012). Taking up the mantra of turning risk into business opportunity, another of the Big "
+Línea 650: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "show how these rankings are arbitrary, unreliable and flawed. Given such critiques (Gladwe"
+Línea 651: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "2011), why do university leaders accredit these rankings with such importance? This is an"
+Línea 666: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "and will check that they are registering all the positive figures (about students, staff, "
+Línea 667: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "publications, exam performance, graduate employment etc.) in precisely the right way for t"
+Línea 677: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "shaky measures pervasive and generative of the organisation itself (Sauder and Espeland 20"
+Línea 678: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "68).This account shows how such measurements are simultaneously individualising and"
+Línea 800: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "numerical rankings ‘tend to be those most distant from their production' (Sauder and Espel"
+Línea 801: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "2009: 72)."
+Línea 812: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "thoroughly they travel widely and are easy to insert into new places and for new uses' (Sa"
+Línea 813: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "and Espeland 2009: 71)."
+Línea 817: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "sell and operate these systems, but again critics might point to the other (‘individualisi"
+Línea 818: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "totalizing', 'governance' and 'perverse' effects) and draw different conclusions. All thre"
+Línea 821: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "indicators has been highly instrumental in distinguishing a new class of technocrats (mana"
+Línea 822: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "accountants, administrators, human resources officers, executive leaders). They are tasked"
+Línea 838: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "2. elaborate and wasteful gaming strategies (Shore and Wright 2000; Wright 2009; House of"
+Línea 839: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "Commons 2004);"
+Línea 902: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "numerical rankings ‘tend to be those most distant from their production' (Sauder and Espel"
+Línea 903: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "2009: 72)."
+Línea 913: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "thoroughly they travel widely and are easy to insert into new places and for new uses' (Sa"
+Línea 914: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "and Espeland 2009: 71)."
+Línea 917: Paréntesis '(' y ')' desbalanceados (1 vs 0) -> "sell and operate these systems, but again critics might point to the other (‘individualisi"
+Línea 918: Paréntesis '(' y ')' desbalanceados (0 vs 1) -> "totalizing', 'governance' and 'perverse' effects) and draw different conclusions. All thre"
+
+--- 6. REVISIÓN ORTOGRÁFICA Y GRAMATICAL (GEMINI AI) ---
+Revisión AI no disponible (HTTP Error 401: Unauthorized).
+
+=================================================================
+                        FIN DEL REPORTE                          
+=================================================================

@@ -37,26 +37,61 @@ def es_seccion_referencias(nombre_seccion: str) -> bool:
 
 
 def limpiar_footers_y_headers(texto: str) -> str:
-    """Elimina determinísticamente pies de página, rutas de archivos locales y fechas de impresión coladas."""
+    """
+    Limpia determinísticamente y de forma generalizada encabezados y pies de página
+    comunes en cualquier paper académico o documento PDF:
+    - Rutas de archivos (.doc, .docx, .pdf, .txt) con espacios o caracteres especiales
+    - Estampas de fecha/hora de impresión y descarga
+    - Números de página y contadores de páginas
+    - Marcas de agua de descarga y avisos de Copyright
+    """
     if not texto:
         return texto
 
-    # 1. Eliminar rutas de archivos del footer (ej. suwr\SW2\Audit book\... .doc / .pdf)
-    texto = re.sub(r'(?i)(?:[a-z0-9_-]+\\)+[^\n]*?\.(?:doc|docx|pdf|txt)', '', texto)
+    # 1. Eliminar cualquier ruta de archivo (incluyendo espacios, signos +, guiones y barras \ o /) terminada en .doc/.docx/.pdf/.txt
+    # Ejemplo: suwr\SW2\Audit book\Audit Culture_CA_Shore+Wright_REVISED_2 Clean Copy.doc
+    pattern_rutas = r'(?i)\b(?:[a-z0-9_\-\.\+\s\\]+[\\\/])+[a-z0-9_\-\.\+\s]+\.(?:doc|docx|pdf|txt|rtf)\b'
+    texto = re.sub(pattern_rutas, '', texto)
 
-    # 2. Eliminar marcas de fecha/hora de impresión (ej. 20-07-2014@22.32)
-    texto = re.sub(r'\b\d{2}-\d{2}-\d{4}@\d{2}[\.:]\d{2}\b', '', texto)
+    # 2. Eliminar marcas de fecha/hora de impresión universales (ej. 20-07-2014@22.32, 20 07 2014@22.32, 2024-05-18 14:30)
+    pattern_fechas = r'\b\d{2}[-\/\s]\d{2}[-\/\s]\d{4}@\d{2}[\.:]\d{2}\b|\b(?:\d{2,4}[-\/\.]\d{2}[-\/\.]\d{2,4})(?:[@\s,T]\d{1,2}[\.:]\d{2}(?:[\.:]\d{2})?)?\b'
+    texto = re.sub(pattern_fechas, '', texto)
 
-    # 3. Limpiar líneas vacías sobrantes dejadas por los pies de página eliminados
+    # 3. Eliminar líneas aisladas con números de página (ej. "Page 14 of 35", "Página 5", "12")
+    pattern_paginas = r'(?im)^\s*(?:page|pág|página)?\s*\d+(?:\s*(?:of|de|\/)\s*\d+)?\s*$'
+    texto = re.sub(pattern_paginas, '', texto)
+
+    # 4. Eliminar avisos de descarga o derechos de autor en pie de página ("Downloaded from...", "© 20XX...", etc.)
+    pattern_marcas = r'(?im)^\s*(?:downloaded from|accessed from|available online at|copyright|©|all rights reserved).*$'
+    texto = re.sub(pattern_marcas, '', texto)
+
+    # 5. Normalizar espacios dobles e integrar líneas
     lineas = [linea.strip() for linea in texto.splitlines()]
     resultado = []
     for l in lineas:
         if l:
-            resultado.append(l)
+            l_clean = re.sub(r' {2,}', ' ', l)
+            resultado.append(l_clean)
         elif resultado and resultado[-1] != "":
             resultado.append("")
 
     return "\n".join(resultado).strip()
+
+
+def remover_titulo_duplicado(clave: str, contenido: str) -> str:
+    """Si el texto extraído comienza con el propio título de la sección, lo remueve para no duplicarlo."""
+    if not clave or not contenido:
+        return contenido
+
+    texto_strip = contenido.lstrip()
+    clave_clean = clave.strip()
+
+    if texto_strip.lower().startswith(clave_clean.lower()):
+        resto = texto_strip[len(clave_clean):].lstrip()
+        resto = re.sub(r'^[:\-\s\n]+', '', resto)
+        return resto
+
+    return contenido
 
 
 def limpiar_referencias_y_footers_en_data(obj):
@@ -66,7 +101,8 @@ def limpiar_referencias_y_footers_en_data(obj):
             if es_seccion_referencias(k):
                 obj[k] = ""
             elif isinstance(v, str):
-                obj[k] = limpiar_footers_y_headers(v)
+                texto_limpio = limpiar_footers_y_headers(v)
+                obj[k] = remover_titulo_duplicado(k, texto_limpio)
             elif isinstance(v, (dict, list)):
                 limpiar_referencias_y_footers_en_data(v)
     elif isinstance(obj, list):
@@ -109,13 +145,14 @@ Ubicación jerárquica esperada en el documento: {contexto_str}
 
 REGLAS CRÍTICAS DE EXTRACCIÓN:
 1. BÚSQUEDA IMPLÍCITA: Ten en cuenta que secciones como "Introduction", "Introducción" o similares pueden NO tener un título o encabezado explícito impreso en el PDF, sino comenzar justo después del Abstract o del título principal del documento. Debes identificar e incluir dicho texto completo aunque carezca de un título explícito.
-2. OMITE PIES DE PÁGINA (FOOTERS): Ignora y elimina cualquier pie de página, rutas de archivo local (ej. `suwr\\...`), fechas de impresión (ej. `20-07-2014@22.32`) o números de página repetitivos.
-3. NO RESUMIR: Extrae todo el contenido original perteneciente a dicha sección sin resumir, omitir ni parafrasear.
-4. FORMATO DE SALIDA: Devuelve exclusivamente un objeto JSON válido con la clave "texto".
+2. OMITE PIES Y ENCABEZADOS DE PÁGINA (FOOTERS/HEADERS): Ignora y elimina cualquier pie de página, rutas de archivo local, marcas de agua, fechas de impresión/descarga o números de página repetitivos.
+3. NO INCLUYAS EL TÍTULO AL INICIO DEL TEXTO: No repitas el título de la sección ("{nombre_seccion}") dentro del cuerpo del texto extraído. Comienza directamente con el contenido del primer párrafo.
+4. NO RESUMIR: Extrae todo el contenido original perteneciente a dicha sección sin resumir, omitir ni parafrasear.
+5. FORMATO DE SALIDA: Devuelve exclusivamente un objeto JSON válido con la clave "texto".
 
 EJEMPLO DE SALIDA:
 {{
-  "texto": "Texto completo extraído del documento PDF..."
+  "texto": "Texto del primer párrafo..."
 }}"""
 
     response = client.models.generate_content(
@@ -139,8 +176,9 @@ EJEMPLO DE SALIDA:
         else:
             res_texto = str(data_reparada)
 
-    # Limpieza determinística de footers/fechas coladas
-    return limpiar_footers_y_headers(res_texto)
+    # Limpieza determinística generalizada y remoción de título duplicado
+    res_texto = limpiar_footers_y_headers(res_texto)
+    return remover_titulo_duplicado(nombre_seccion, res_texto)
 
 
 def extraer_texto_seccion_con_reintentos(

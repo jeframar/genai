@@ -19,7 +19,6 @@ Like many anthropological concepts, 'audit culture' combines both emic and etic 
 
 ## Towards a theory and genealogy of audit
 
-Towards a theory and genealogy of audit
 One of the first scholars to identify and analyze the rise of auditing and its effects on society was
 professor of accounting and philosopher, Michael Power. Writing in Britain in the early 1990s
 and reflecting on a decade of radical Conservative governments under Margaret Thatcher and
@@ -28,7 +27,7 @@ systems. As well as financial audits there were now ‘environmental audits’, 
 audits’, 'waste management' audits, 'democracy audits', ‘technology and computing audits’,
 'teaching audits, 'academic audits', 'value for money' audits, 'land and water resource audits,
 media audits, medical audits – even stress audits' and ‘audits of auditing systems' (Power
-1994:1). These trends continued under Britain's1997 New Labour government and spread to
+1994:1). These trends continued under Britain'
 
 many other countries, particularly those that embraced neoliberal agendas. Power further
 developed this analysis in The Audit Society (1997), which aptly described audits as ‘rituals of
@@ -52,7 +51,7 @@ satisfaction. Its 2011 online survey, for example, revealed that Russians had th
 but only 42% were satisfied, whereas 53% of Americans had weekly sex and 48% were satisfied,
 and 34% of Japanese had weekly sex but only15% were satisfied (Durex 2011).
 There is nothing new about the use of quantitative indicators and performance measurements.
-However, what is distinctive about performance indicators and audits today is the scale of their
+However,
 
 diffusion and the extraordinary extent to which society has embraced and endorsed them
 (Strathern 2000b). As Michael Power (1994: 41) observed, 'we have lost the ability to be
@@ -97,7 +96,7 @@ which passed written reports with number-based, normalising judgements. These re
 each employee's productivity and were the currency for comparing units, so that every employee
 'felt and often remarked that the eyes of the company were always on them through the books'
 (Chandler 1997: 267-8 quoted in Hoskin and Macve 1988: 67). In short, the organisation of
-corporate America relied heavily on the West Point graduates' reflexive knowledge about how to
+corporate America relied heavily on the West Point graduates'
 
 create a system of organisation and discipline that turned managers and workers into calculative,
 accountable selves.
@@ -118,10 +117,7 @@ spread sheets to turn what had been a family company into ‘an omniscient opera
 albeit one that he later admitted he would ‘go out of my way to discourage my son from working
 in' (Starkey and McKinlay 1994: 980, quoted in Martin 2010: 16). The manager of each section
 was given targets and their performance was measured by a higher bureaucracy. This created a
-task-driven, fiercely competitive culture, in which each section competed with every other, and
-gamed the system to advance their own institutional position. This system became counter-
-productive and dysfunctional when concern for internal competition and intrigue far outweighed
-any overall vision of the quality of the car or the satisfaction of the customer. Situations arose in
+task-driven, fiercely competitive culture, in which each section competed with every other,
 
 which, as one manager confessed, supervisors were only concerned with ‘meeting output targets
 even if it meant subverting Ford's quality control systems' (Martin 2010: 16-17). As Tom
@@ -143,8 +139,7 @@ car, a Chevrolet Malibu, was struck by a drunk driver. The Malibu's gas tank exp
 impact. The adults were able to escape but the four children were trapped in the back seat and
 suffered terrible second and third degree burns. The plaintiffs filed their lawsuit on the grounds
 that the fuel tank was dangerously positioned, just 11 inches from the back bumper, to save
-costs, with no metal brace to separate the fuel tank from the rear of the car. A company directive
-had recommended that fuel tanks be at least 17 inches from the rear bumper and during the trial
+costs,
 
 their lawyers obtained GM internal memos that the company had blocked in previous lawsuits.
 These revealed a damning 1973 report written by GM engineer Edward Ivey which concluded
@@ -167,8 +162,7 @@ Regardless of these failures both in industry and in the military, the idea of f
 operations and performance of complex organisations and turning their activities into numbers
 was transposed to the public sector in the 1980s as a core feature of ‘New Public Management'.
 As we have documented elsewhere (Shore and Wright 1999; 2000) the work of schools,
-hospitals, municipal government, provision for the elderly, and most other public services were
-reduced to numerical score sheets and ranked in competitive league tables. These new regimes of
+hospitals, municipal government, provision for the elderly,
 
 accountability were justified in the name of efficiency and transparency. The performance of
 players at the top of the league were distilled and de-contextualised as ‘best practice' to be
@@ -192,7 +186,7 @@ resources were concentrated on the top tier of departments. This method of ‘re
 and 'punishing failure' ensured that those universities lower down the scale were denied the
 resources that might enable them to pull themselves up. The same punitive model was applied to
 the national school system, with similar effects. Such systems of grading and ranking have
-'skewing effects' as academics also know from the literature on ‘teaching to the test' and the
+'skewing effects' as academics also know from the literature on ‘teaching to the test'
 
 'washback effect' of any examination system (Cheng et al. 2004). The skewing effects of
 systems of measuring and grading universities' research output are now so familiar they have
@@ -216,7 +210,7 @@ students as calculating and ‘calculable' subjects. At the same time, these ran
 also radically reshaped institutions in their own image, for as is well known, when a feature of an
 organization is measured, that measure becomes a target. This is often referred to as 'Goodhart's
 law' after the advisor who warned Britain's Conservative government in the 1970s against trying
-to conduct monetary policy on the basis of targets (Goodhart 1975). A recent illustration of this
+to conduct monetary policy on the basis of targets (Goodhart 1975).
 
 tendency to turn measures into targets was the aborted Australian system for grading the quality
 of research publications according to ranked lists of journals. At the last minute, the then-
@@ -239,7 +233,7 @@ which it was never originally designed can produce a 'runaway effect' as the new
 systems and modes of operating gather their own momentum, as illustrated above where
 McNamara's competitive accounting model at Ford spiralled out of control.
 Classificatory effects highlight the fact that indicators and statistics are never neutral. Like other
-systems of measurement, an audit produces knowledge by ‘announcing what it measures, such as
+systems of measurement, an audit produces knowledge by ‘announcing what it measures,
 
 “rule of law” or “poverty” (Merry 2011: S84) and hailing into existence the subjects it
 categorises and labels. The way that institutional systems classify and order populations has been
@@ -262,7 +256,7 @@ forthcoming). It was to avoid such a pervasive effect that Australia's Higher Ed
 intervened to cancel the Excellence in Research for Australia initiative. However, US law school
 deans have been unable to contest their version of the 'individualising and totalising' effect as
 their ranking determines their position in the market and ability to attract income from student
-fees (Sauder and Espeland 2009). Governance through numbers, as these examples show, creates
+fees (Sauder and Espeland 2009). Governance through numbers, as these examples show,
 
 ranking regimes that operate across multiple scales, producing a ‘total accountability system’
 (Hoskin and Macve 1988).
@@ -286,11 +280,9 @@ new levels. Amazon gives its ‘pickers' handsets which tell them what to collec
 It allots 33 seconds to find a product, then a timer counts down until the next product is retrieved.
 A manager oversees this electronic data-flow to ensure all the pickers keep up to speed
 throughout their ten-and-a-half hour shifts that involve up to eleven miles of walking. Professor
-Michael Marmot, a leading expert on stress at work, argues that these conditions greatly increase
+Michael Marmot, a leading expert on stress at work,
 
 ## Ranking: From Education and the Military to the Corporation and Back
-
-Ranking: From Education and the Military to the Corporation and Back
 
 In 1817, the new principal of the West Point Military Academy, Sylvanus Thayer, instituted an
 educational system, which he borrowed from the École Polytechnique in France, based on
@@ -532,7 +524,6 @@ Michael Marmot, a leading expert on stress at work, argues that these conditions
 
 ## A New Industry of Measuring and Ranking
 
-A New Industry of Measuring and Ranking
 The rise of systems of auditing and ranking has been accompanied and fuelled by the growth of
 international firms specialising in accountancy and statistical ratings. These include, at one
 extreme, the various credit rating agencies that have now consolidated into the 'Big 3' firms of
@@ -549,7 +540,7 @@ eligibility for a mortgage, personal loan or credit card.
 In the field of international accounting, four large commercial firms dominate the market:
 Deloitte, PricewaterhouseCoopers, Ernst and Young, and KPMG. Significantly, in 2011-12, a
 period of continuing financial crisis in Europe and the USA, the revenues of these companies
-grew by an astonishing 6 per cent, netting a record $110 billion thanks to their expansion into
+grew by an astonishing 6 per cent, netting a record $
 
 emerging economies. Each of these firms now operates in over 140 countries and employs
 between 140,000 and 200,000 professional staff. The largest of them, Deloitte, represents itself
@@ -572,7 +563,7 @@ expenditure, to entertainment and media, government/public services, health care
 pharmaceuticals and life sciences. PwC even offers services in anti-corruption and
 whistleblowing. These global accounting firms often sell their services on the basis of being
 ‘integrity warriors' whose mission is to ensure financial probity and ‘good governance' but their
-own financial practices are anything but ‘best practice'. As Cousins et al. (2004: 4) point out, all
+own financial practices are anything but ‘best practice'. As Cousins et al. (2004: 4) point out,
 
 four 'are headquartered in secretive tax havens without information sharing treaties with other
 countries'. Each of the Big 4 has been criticized for its own illegal activities. A study by Her
@@ -596,7 +587,7 @@ their case in the UK's High Court, they pursued it in the European Court of Just
 declared the scheme unacceptable.
 In 2012 PricewaterhouseCoopers (PwC) was also fined (this time £1.4 million) for seven years
 of false reporting to the UK's Financial Services Authority about JP Morgan, one of the banks it
-audited. PwC was found to have not carried out its work ‘with due skill, care and diligence and
+audited. PwC was found to have not carried out its work ‘with due skill,
 
 with proper regard for the applicable technical and professional standards expected of it' (Pratley
 2012). Taking up the mantra of turning risk into business opportunity, another of the Big 4 has
@@ -644,14 +635,12 @@ professionals'. The citation indexes focus on the leading journals in each field
 acquired by the larger publishing companies. They extract profit from ‘free’' academic labour
 (i.e. in writing, peer reviewing and editing journal articles etc.), then they sell the products back
 to university libraries at high cost (Ciancanelli 2007). The competitive game of universities
-struggling for 'world class' status is thus a mechanism of audit culture second to none, which
+struggling for 'world class' status is thus a mechanism of audit culture second to none,
 
 provides new revenue streams for the industries that have mushroomed from the imperatives of
 measuring and ranking.
 
 ## Why Managers and Governments Adopt Auditing Technologies
-
-Why Managers and Governments Adopt Auditing Technologies
 
 University leaders today are confronted with a bewildering array of measurements that rank
 different aspects of a university; everything from its credit-worthiness and success in attracting
@@ -884,7 +873,6 @@ professional values. If there is power in numbers, there is also strength in num
 
 ## Conclusion: audits, ranking and the (re)ordering of society
 
-Conclusion: audits, ranking and the (re)ordering of society
 The institutionalized processes of measuring and ranking described above and their spread into
 many domains of organisational and social life reveal the emergence of a new type of
 governmentality based on a financial calculus; an instrumental, results- and target-driven
