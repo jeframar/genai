@@ -1,0 +1,984 @@
+# Audit Culture Revisited: Rankings, Ratings and the Reassembling of Society
+
+## Abstract
+
+The spread of the rationality and techniques of financial accounting into new systems for measuring, ranking and auditing performance represents one of the most important and defining features of contemporary governance. Audit procedures are redefining accountability, transparency, and good governance and reshaping the way organisations and individuals have to operate. They also undermine professional autonomy and have unanticipated and dysfunctional consequences. Taking up the concept of 'audit culture' as an analytical framework, we examine the origins, spread and rationality driving these new financialized techniques of governance, not least through the work of the ‘Big 4' accountancy firms, and trace their impact across a number of different fields, from administration and the military to business corporations and universities. Following Strathern's observation that audit is 'where the financial and the moral meet' we ask, what new kinds of ‘ethics of accountability' does audit produce? We build on the work of Mitchell (1999), Trouillot (2001) and Merry (2011) to identify five ways in which the techniques and logics of financial accountancy have notable ‘audit effects'. These are ‘domaining', ‘classificatory', ‘individualising and totalizing', 'governance' and ‘perverse' effects. We conclude by reflecting on the problems of audit culture and suggest ways to reclaim the
+
+## Introduction
+
+The spread of the rationality and techniques of financial accounting into new systems for measuring, ranking and auditing performance represents one of the most important and defining features of contemporary governance. Audit procedures are redefining accountability, transparency, and good governance and reshaping the way organisations and individuals have to operate. They also undermine professional autonomy and have unanticipated and dysfunctional consequences. Taking up the concept of 'audit culture' as an analytical framework, we examine the origins, spread and rationality driving these new financialized techniques of governance, not least through the work of the ‘Big 4' accountancy firms, and trace their impact across a number of different fields, from administration and the military to business corporations and universities. Following Strathern's observation that audit is 'where the financial and the moral meet' we ask, what new kinds of ‘ethics of accountability' does audit produce? We build on the work of Mitchell (1999), Trouillot (2001) and Merry (2011) to identify five ways in which the techniques and logics of financial accountancy have notable ‘audit effects'. These are ‘domaining', ‘classificatory', ‘individualising and totalizing', 'governance' and ‘perverse' effects. We conclude by reflecting on the problems of audit culture and suggest ways to reclaim the professional values and democratic spaces that are being eroded by these new systems of governing by numbers.
+Rankings are part of a global movement that is redefining accountability, transparency, and good governance in terms of quantitative measures they diminish the salience of local knowledge and professional autonomy, they absorb vast resources, and they insinuate and extend market logic (Sauder and Espeland 2009: 80).
+Ever since anthropologists started to engage with the ideas of Michel Foucault, the discipline has recognized that seemingly mundane routines often have the most profound impact on the manner in which people are governed. Whether it is awarding smileys for customer satisfaction with the cleanliness of airport toilets, collecting points to win the ‘WAL-MART Employee of the Month' certificate, or colleges competing for the ‘best student experience award' and counting academic publications to brand themselves as ‘centres of world excellence', enumeration and classification lie at the heart of such everyday forms of management. These mundane practices also provide critical insights into regimes of governance and the operation of power. The use of indicators, measurements and rankings have become increasingly pervasive, both as instruments in the internal management of organizations and in external representations of their quality, efficiency and accountability to the wider public. As Sally Merry (2011: S52) notes, ‘indicators are rapidly multiplying as tools for measuring and promoting reform strategies around the world'. They are also increasingly used to assess performance and encourage people to think of themselves as calculating, responsible, self-managing subjects. But it is not just the use of numerical indicators and rankings that has become a key element of contemporary regimes of governance: increasingly, the principles and practices of modern accounting and financial control are being applied to contexts far removed from the world of book-keeping and corporate management. It is the widespread proliferation of these calculative rationalities of modern financial accounting and their effects on individuals and organizations that we term ‘audit culture'.
+In this paper, we trace how the principles and technologies of grading and ranking have travelled from education to the military and industry and, despite appalling failures, have further been translated into the public sector during the 1980s and beyond. As Rose and Miller observed (1992: 183), these 'calculative practices should be analysed as “technologies of government”’. While these mechanisms make government reforms operable, they also recast political programmes as mundane administrative and technical matters to be dealt with with by experts, thereby masking their ideological content and removing them from the realm of contestable politics (Burchell 19993; Shore and Wright 1997; Miller 2001). Since the 1990s, such political technologies have been expanded as vehicles for assessing the quality, efficiency and increasingly, the organizational effectiveness of municipal services, hospitals, schools, NGOs and businesses. Today, the creditworthiness of charities, utility companies, airlines, universities and even entire countries is measured and rated. All have been reduced to numbers and competitively ranked in league tables. These technologies have intensified as governments and other organisations have sought to mobilize their assets to compete more successfully in the global knowledge economy. As a result, a new industry of profitable activities in measuring, accounting, ranking and benchmarking has emerged across numerous professional fields (Olds 2010; Robertson et al. 2012). Equally importantly, a new language of accountability has come to dominate organisations. Audits and performance indicators have been combined with new clusters of words like 'quality', 'efficiency', ‘effectiveness', ‘value for money' and ‘transparency', and within new ideologies (Bruneau and Savage 2002: 12). As Strathern (2000b:1) noted, audits have come to embody a new form of ethics: they are where ‘the financial and the moral meet'.
+To analyse these developments we addresses four related sets of questions:
+1. What can be learnt about these practices by examining their origins and spread? How should we analyse and theorize their effects?
+2. Who are the ‘rankers' today and how do they operate? Who are the main actors that comprise this new industry and what role do the 'Big 4' international auditing and accountancy firms and other ranking bodies play in shaping its development?
+3. Why have governments and managers adopted these auditing practices? What are the rationales – explicit as well implicit – that are driving change and how are they legitimized by managers and policy makers? We argue that measurement and ranking have become central components of a ‘total accountability' governance system based on competition between nations, institutions and individuals. Actors, whether organizations or individuals, are constructed as ‘accountable selves' and free agents who succeed by mobilizing their resources and managing their behaviour to optimize 'what counts'.
+4. Finally, we ask, where is this trajectory leading and is its relentless expansion inevitable? Just as Weber wrote about the iron cage of bureaucracy and its inevitable onslaught as both a cause and effect of rationalization and modernity, is audit an unstoppable 'glass cage' of coercive transparency? How can we re-claim the professional autonomy and trust that audit practices appear to strip out of the workplace? Is it possible to sustain critical practice when what ‘counts' in modern rankings no longer reflects the central role and purpose of a professional and public institution? We argue that the interaction of these contemporary processes of enumeration, ranking and governance, the ‘financialised' relationships they create, and the new forms of performance and accountability these give rise to, can be usefully framed and analysed using the concept of audit culture. As we have argued elsewhere (Shore and Wright 1999; 2000; Shore 2008), audit culture refers to contexts where the principles, techniques and rationale of financial accounting have become central organizing principles in all aspects of society, from the provision of safe nurseries and the transformation of government, to the execution of war. In stating this, we are not proposing audit as meta type of society alongside alternatives such as ‘feudal society', capitalist society', or ‘post-industrial' society. Rather, we see audit culture as a rationality of governance and a corresponding set of dispositions and practices. It therefore refers to a condition or constellation of processes. This is similar to what Foucault (1980) called a 'formation' or dispositif. Put simply, audit culture refers to contexts where auditing has become a central organizing principle of society.
+Like many anthropological concepts, 'audit culture' combines both emic and etic elements: it is both an experiential phenomenon and an analytical model that helps identify and theorize key processes and trends that are reshaping everyday social relations and cultural practices. In saying this, we are not suggesting that audit culture is something monolithic or uniform. Indeed, audit practices work in diverse ways and have different meanings and ramifications in different contexts. Nor are we trying to map or label a range of audit cultures as if each context constituted a discrete or bounded entity. Instead, we use the concept of audit culture to refer to a family of resemblances in Wittgenstein's (1953) sense of the term; that is, where each incidence entails some forms of financialising logic and some instrumental techniques of enumeration and commensuration. When combined, these form an individualizing and totalizing system of accountability, but the precise constellation of features and the ways they work together vary, as do the politics of their adoption and resistance. The expansion of auditing into new domains of practice is more than simply 'policy transfer': it has brought about a wholesale transformation in the ways in which individuals, organisations and even countries are now managed and governed. We illustrate below how this ‘domaining' process often results in unanticipated and even perverse effects on individual and organizational behaviour when people are incentivised to compete and perform according to the new norms of accounting. As Albert Einstein famously remarked, 'not everything that is countable counts, and not everything that counts is countable'. The important issue to probe here is what audits and rankings bring into focus and what they render invisible or unsayable. This is where auditing and ranking also become questions of governance and power.
+
+## Towards a theory and genealogy of audit
+
+Towards a theory and genealogy of audit
+One of the first scholars to identify and analyze the rise of auditing and its effects on society was
+professor of accounting and philosopher, Michael Power. Writing in Britain in the early 1990s
+and reflecting on a decade of radical Conservative governments under Margaret Thatcher and
+John Major, Power noted the extraordinary proliferation of formal auditing and monitoring
+systems. As well as financial audits there were now ‘environmental audits’, ‘public spending
+audits’, 'waste management' audits, 'democracy audits', ‘technology and computing audits’,
+'teaching audits, 'academic audits', 'value for money' audits, 'land and water resource audits,
+media audits, medical audits – even stress audits' and ‘audits of auditing systems' (Power
+1994:1). These trends continued under Britain's1997 New Labour government and spread to
+
+many other countries, particularly those that embraced neoliberal agendas. Power further
+developed this analysis in The Audit Society (1997), which aptly described audits as ‘rituals of
+verification’ and noted their often-perverse effects. Paradoxically, these included increasing
+levels of mistrust as trust and professional judgments came to be replaced by formal systems of
+auditing and inspection (O’Neil 2002). Since 2000, systems for turning everyday life into
+measurements and competitive rankings have expanded to include all kinds of new phenomena,
+from hospital waiting times, ambulance response rates, traffic safety, household carbon
+footprints, to crime, corruption, air pollution, risk and even ‘fear’, which is now measured as a
+proxy for falls in the value of stocks and shares. The appetite for rating systems and league table
+comparisons seems to have become a populist project. Examples of recently coined measures
+include the global sports television channel ESPN's 'Ultimate Degree of Difficulty Grid'; the
+'Global Innovation Index' (GII) sponsored by the United Nations' Intellectual Property
+Organization; the ‘Global Creativity Index' (GCI) produced by the Martin Prosperity Institute;
+Fortune Magazine's ranking of the ‘Most Admired Companies' for their human resources
+practices; the Bhutan government-sponsored ‘Global Gross National Happiness Index'; and the
+'Happy Planet Index' that measures sustainable wellbeing for Friends of the Earth and the Soil
+Association. Condom manufacturer Durex now conducts an annual 26-country ‘sexual wellbeing
+survey' which purports to measure how many people have weekly sex, and with what level of
+satisfaction. Its 2011 online survey, for example, revealed that Russians had the most sex (80%)
+but only 42% were satisfied, whereas 53% of Americans had weekly sex and 48% were satisfied,
+and 34% of Japanese had weekly sex but only15% were satisfied (Durex 2011).
+There is nothing new about the use of quantitative indicators and performance measurements.
+However, what is distinctive about performance indicators and audits today is the scale of their
+
+diffusion and the extraordinary extent to which society has embraced and endorsed them
+(Strathern 2000b). As Michael Power (1994: 41) observed, 'we have lost the ability to be
+publicly skeptical about the fashion for audit and quality assurance' to the extent that they have
+come to appear as natural and benign solutions to the problems of performance, management and
+governance. Power's analysis suggests that audits and indicators may be part of the problem
+rather than the solution: their aim may be organizational transparency, but they end up being
+opaque; indicators become targets as institutions are reshaped according to the criteria and
+methods used to measure them; and organisations and people are transformed into ‘auditable’
+entities that focus their energies on doing what ‘counts’. How did this situation arise and where
+did these calculative technologies for measuring and enhancing performance stem from?
+Significantly, universities and academies were themselves early pioneers in turning complex
+social processes into numbers.
+Ranking: From Education and the Military to the Corporation and Back
+In 1817, the new principal of the West Point Military Academy, Sylvanus Thayer, instituted an
+educational system, which he borrowed from the École Polytechnique in France, based on
+arithmetic grading. Thayer established a hierarchical structure at the Academy, down which rules
+and regulations passed to the students, and up which flowed regular and systematised reports
+including students' grades. The authors of this study explain:
+This is a total accountability system, where all aspects of performance, academic and
+behavioural, are constantly measured, evaluated and recorded in a joint numerical-
+linguistic language which is also a currency (Hoskin and Macve 1988: 49).
+
+According to Hoskin and Macve, every student's subject knowledge was tested daily, weekly
+and half-yearly and marked according to a standardised, 7-point numerical scale. Students'
+aptitude, study habits, and whether their conduct was sufficiently ‘military’ were also recorded in
+weekly, monthly and half-yearly reports, and given a grade on a 7-point descriptive scale from
+'excellent' to 'indifferent'. Both sets of reports went up the hierarchy. The marks were used to
+divide each year into four graded classes. Each student knew his place and what he had to do to
+move up the ranking. This was
+an exhaustive hierarchical reflexive system of command and communication, ... which
+(ideally) made every individual in the institution constantly visible and accountable for his
+behaviour (Hoskin and Macve 1988: 59).
+The West Point students were made into calculative, self-disciplined selves. They learnt the
+norms against which they were marked and they knew what they had to do to improve their
+grades. Their final mark determined how prestigious their first appointment would be, and their
+record accompanied them throughout their military career and beyond.
+This system produced the best civil engineers in the country. It also produced some of the best
+managers of the armouries, the railroads and the newly forming industrial corporations. They
+imported into these organisations a hierarchy down which passed meticulous regulations and up
+which passed written reports with number-based, normalising judgements. These reports graded
+each employee's productivity and were the currency for comparing units, so that every employee
+'felt and often remarked that the eyes of the company were always on them through the books'
+(Chandler 1997: 267-8 quoted in Hoskin and Macve 1988: 67). In short, the organisation of
+corporate America relied heavily on the West Point graduates' reflexive knowledge about how to
+
+create a system of organisation and discipline that turned managers and workers into calculative,
+accountable selves.
+This method of accounting was further refined by Frederick Taylor's (1913) Scientific
+Management, which analysed workflows in order to improve labour productivity. Taylor's ideas
+were influential in the organisation of domestic industries during the First World War and were
+taken up in the 1920s as part of the Scientific Management Movement. Although Taylor visited
+Henry Ford's automobile factory in Michigan shortly before he died in 1915, Ford was
+developing his own principles of modern mass production and automation that paralleled
+Taylorism. Initially, Ford's success derived from dividing the car manufacturing process into
+standardized small elements, then costing and measuring every aspect of production to achieve
+efficiencies whilst carefully maintaining oversight of the assembly line's coherence and flow.
+But fragmenting the production process also had negative consequences. During the 1940s
+Henry Ford II employed ten ‘whiz kids' from the army airforce's statistical team to create further
+productive efficiencies. One of these, Robert McNamara, became president of the Ford Motor
+Company in the 1950s. As President, he used the new IBM computers to feed numbers into
+spread sheets to turn what had been a family company into ‘an omniscient operating system’,
+albeit one that he later admitted he would ‘go out of my way to discourage my son from working
+in' (Starkey and McKinlay 1994: 980, quoted in Martin 2010: 16). The manager of each section
+was given targets and their performance was measured by a higher bureaucracy. This created a
+task-driven, fiercely competitive culture, in which each section competed with every other, and
+gamed the system to advance their own institutional position. This system became counter-
+productive and dysfunctional when concern for internal competition and intrigue far outweighed
+any overall vision of the quality of the car or the satisfaction of the customer. Situations arose in
+
+which, as one manager confessed, supervisors were only concerned with ‘meeting output targets
+even if it meant subverting Ford's quality control systems' (Martin 2010: 16-17). As Tom
+Peters, co-author of the famous management book In Search of Excellence, complained:
+Start with Taylorism, add...a dose of McNamaraism, and by the late 1970's you had the
+great American corporation that was being run by bean counters (2001: 88).
+When he was appointed US Secretary of Defence under President Kennedy, McNamara
+transferred this system to the running of the Vietnam War. But he later admitted that 'body
+counts' proved a disastrous substitute for ‘our profound ignorance of the history, culture and
+politics [of Vietnam]' (McNamara quoted in Martin 2010: 16).
+If McNamara's handling of the Vietnam War is an international example of the immorality of
+governing by numbers, another example from the automobile industry highlights the ‘banality of
+evil' that may result from the marriage of cost accounting with the single-minded pursuit of
+profit that is the driving force and legal mandate behind the modern corporation. Joel Bakan
+(2005) describes the story of the liability case, Anderson v. General Motors Corporation, where
+the jury awarded Patricia Anderson a $4.9 billion verdict. On Christmas day 1993 Anderson, her
+four children and a family friend were driving home from Christmas mass when the back of her
+car, a Chevrolet Malibu, was struck by a drunk driver. The Malibu's gas tank exploded on
+impact. The adults were able to escape but the four children were trapped in the back seat and
+suffered terrible second and third degree burns. The plaintiffs filed their lawsuit on the grounds
+that the fuel tank was dangerously positioned, just 11 inches from the back bumper, to save
+costs, with no metal brace to separate the fuel tank from the rear of the car. A company directive
+had recommended that fuel tanks be at least 17 inches from the rear bumper and during the trial
+
+their lawyers obtained GM internal memos that the company had blocked in previous lawsuits.
+These revealed a damning 1973 report written by GM engineer Edward Ivey which concluded
+that it would be cheaper to maintain the current fuel tank than design a tank that did not explode
+in a crash. Ivey's report estimated there would be 500 fatalities related to accidents with fuel-fed
+fires and that each fatality would cost $200,000 in compensation. He then calculated that since
+there were 41 million General Motors automobiles on the road, the cost per car to GM would be
+$2.40. On the other hand, the cost of designing a non-exploding fuel tank would be $8.59 per car.
+Hence, the company stood to ‘save $6.19 per automobile if it allowed people to die in fuel-fed
+fires rather than alter the design' (Bakan 2005: 63). Although it is not clear whether anyone in
+senior management had seen Mr. Ivey's report, the judge described GM's behavior as 'morally
+reprehensible and against applicable laws because it had put profits above public safety' (Bakan
+2005:63). The court awarded Armstrong and her children compensatory damages of $107
+million and unprecedented punitive damages of $4.9 billion. A Los Angeles Superior Court later
+reduced this to $1.09 billion. Even so, the US Chamber of Commerce called this an ‘illegitimate
+result' on the grounds that manufacturers' use of cost-benefit analyses in the design of products
+is 'a hallmark of corporate good behaviour' and the ‘logic underlying it is unimpeachable'
+(Bakan 2005: 63-64).
+Regardless of these failures both in industry and in the military, the idea of financialising the
+operations and performance of complex organisations and turning their activities into numbers
+was transposed to the public sector in the 1980s as a core feature of ‘New Public Management'.
+As we have documented elsewhere (Shore and Wright 1999; 2000) the work of schools,
+hospitals, municipal government, provision for the elderly, and most other public services were
+reduced to numerical score sheets and ranked in competitive league tables. These new regimes of
+
+accountability were justified in the name of efficiency and transparency. The performance of
+players at the top of the league were distilled and de-contextualised as ‘best practice' to be
+spread to the others, notably those ‘named and shamed' at the bottom of the league. Key
+performance indicators (KPIs) were devised as measures of the quality, efficiency and value for
+money of virtually all public services. Typically, performance was expressed in financial figures
+and while claims were made that these numerical indicators were only ‘proxies' for quality or
+effectiveness, in reality monetary value became the dominant measure. In this way,
+quantification and scientific management were married to a project of ‘financialisation' and a
+new ethics of accountability.
+A new period in the evolution of this system of governing through numbers was its re-
+introduction into universities. Britain, Australia and New Zealand were early pioneers in the
+1980s (Wright et al. 2014). First, Britain developed a national evaluation of university research
+called the Research Assessment Exercise (RAE). The research output of each department was
+read by a committee of peers from the relevant discipline and, reminiscent of the West Point
+system, was graded on a 7-point marking scale. While initially each institution received a
+standardized amount of funding per researcher, in the course of successive RAEs, governments
+used these grades to concentrate funding on those at the top of the league table and to
+progressively withdraw funding from those at the bottom. By 2001, 75 per cent of research
+resources were concentrated on the top tier of departments. This method of ‘rewarding success’
+and 'punishing failure' ensured that those universities lower down the scale were denied the
+resources that might enable them to pull themselves up. The same punitive model was applied to
+the national school system, with similar effects. Such systems of grading and ranking have
+'skewing effects' as academics also know from the literature on ‘teaching to the test' and the
+
+'washback effect' of any examination system (Cheng et al. 2004). The skewing effects of
+systems of measuring and grading universities' research output are now so familiar they have
+acquired their own terminology such as ‘salami slicing' (cutting research results into small
+chunks, each published as a separate journal article), ‘rushing to press' (publishing partial results
+as soon as they are available rather than making a mature and considered analysis) and the ‘star
+player' syndrome (hiring high profile researchers just before a research assessment exercise)
+(Wright 2009, Shore and McLauchlan 2011: 282). The UK's House of Commons' Science and
+Technology Committee called the RAE a ‘morass of fiddling, finagling and horse trading' that
+was 'starting to lack credibility' (2004: 21). Similarly, a British Academy Policy Centre report
+warned of the perverse effects of using aggregated measures and rankings punitively to name and
+shame, rather than developmentally to internally diagnose and remedy problems (Foley and
+Goldstein 2012).
+With the multiple borrowings of these ranking systems - from the French École Polytechnique to
+West Point Academy to the management of private corporations and from there to the public
+sector including universities - important shifts occurred both in the assessment technologies and
+their effects. These 'omniscient operating systems' became ever more ‘individualising and
+totalising' (Foucault 1977) in that they simultaneously worked across scales to order a whole
+population or sector whilst also rendering military cadets, factory workers and university
+students as calculating and ‘calculable' subjects. At the same time, these ranking technologies
+also radically reshaped institutions in their own image, for as is well known, when a feature of an
+organization is measured, that measure becomes a target. This is often referred to as 'Goodhart's
+law' after the advisor who warned Britain's Conservative government in the 1970s against trying
+to conduct monetary policy on the basis of targets (Goodhart 1975). A recent illustration of this
+
+tendency to turn measures into targets was the aborted Australian system for grading the quality
+of research publications according to ranked lists of journals. At the last minute, the then-
+Minister for Higher Education cancelled the system following evidence that university research
+managers were setting academics targets for publications in top ranked journals. He condemned
+this conversion of the measure into a target as ‘ill-informed and undesirable behaviour in the
+management of research' (Carr 2011). Michael Power has noted that audit procedures 'transform
+the environments to which they are applied' effectively colonizing and ‘permeating the auditee
+organisation totally' (1997: 90, 97). The effect is that organisations reshape their operations and
+values around that which is measured. Equally importantly, individuals are interpellated as
+'auditees' whose behaviour is expected to align with the rationality of audit (Power 2005: 335).
+The examples above highlight wider theoretical points which, building on Merry (2011), we call
+'audit effects'. We identify five of these that are of particular importance:‘domaining effects’;
+'classificatory effects'; 'individualising and totalizing effects'; 'governance effects'; 'perverse
+effects'. We elaborate briefly on each of these in turn.
+Domaining effects are where the introduction of audit and ranking into a new organisational
+context radically reshapes that environment in ways that mirror the values and priorities
+embedded within the audit technologies themselves. The application of audit to environments for
+which it was never originally designed can produce a 'runaway effect' as the newly created
+systems and modes of operating gather their own momentum, as illustrated above where
+McNamara's competitive accounting model at Ford spiralled out of control.
+Classificatory effects highlight the fact that indicators and statistics are never neutral. Like other
+systems of measurement, an audit produces knowledge by ‘announcing what it measures, such as
+
+“rule of law” or “poverty” (Merry 2011: S84) and hailing into existence the subjects it
+categorises and labels. The way that institutional systems classify and order populations has been
+amply documented by Foucault (1980) and others. However, audit changes the values, priorities
+and practices of organisational subjects in subtle and often unnoticed ways such that their subject
+positions are transformed. This is what Ian Hacking (2004) has elsewhere termed ‘dynamic
+nominalism' or the 'looping effect'. Hacking exemplifies this with reference to the invention of
+medical categories such as ‘multiple personality disorder’, ‘IQ’ and 'obesity' but it is equally
+evident in the classification of ‘failing schools', 'lowest ranking cadet' (such as the “West
+Point's goat"), and Fortune's ‘most admired' human resources department.
+The way these classifications and rankings tend to simultaneously order both whole populations
+and individuals is captured by the ‘individualising and totalising effect'. Key to the success of
+this process is the neat, simple and efficient way in which it achieves its effectiveness – at
+minimal cost and effort to the organisation. For example, when the international standing of
+universities is turned into a performance indicator, and that indicator is used to allocate
+funding, this simple mechanism has effects across three scales: the whole sector is reorganised in
+pursuit of competitive advantage; each organisation is re-purposed around the targets and
+incentives, and every individual is impelled to concentrate on ‘what counts' (Wright
+forthcoming). It was to avoid such a pervasive effect that Australia's Higher Education minister
+intervened to cancel the Excellence in Research for Australia initiative. However, US law school
+deans have been unable to contest their version of the 'individualising and totalising' effect as
+their ranking determines their position in the market and ability to attract income from student
+fees (Sauder and Espeland 2009). Governance through numbers, as these examples show, creates
+
+ranking regimes that operate across multiple scales, producing a ‘total accountability system’
+(Hoskin and Macve 1988).
+'Governance effects' are a corollary of these individualising and totalising mechanisms. Setting
+performance indicators and assessing against benchmarks and best practice are instruments
+designed to make organisations more ‘accountable' to funders, government, stakeholders,
+consumers and the public. While they render individuals and organisations more ‘legible' to
+external experts, there is a coercive dimension to that accountability: organisations must
+represent themselves in terms of the narrow, predetermined script of expert assessors, in what
+Strathern (2000a) calls the ‘tyranny of transparency'. These ways of opening up organisations for
+scrutiny and inspection also provide a vehicle for enacting and extending the presence of the
+state or what Mitchell (1999) has termed the ‘state effect' (see also Trouillot 2002).
+Finally, 'perverse effects' draw attention to the ways in which governing by numbers, when
+taken to extremes or misapplied - such as in the Vietnam war fails to deliver what it promises
+and, whether one counts beans or bodies, may result in decision-making that is amoral or
+outcomes that are immoral. One dimension of this is the increasing stress and anxiety that
+rankings produce among individuals who are driven to over-perform (King and Moutsou 2010;
+Wright 2011). As a BBC ‘Panorama' investigation into the employment conditions at one of
+Amazon's UK warehouses found, intensified time-and-motion techniques have been taken to
+new levels. Amazon gives its ‘pickers' handsets which tell them what to collect from the shelves.
+It allots 33 seconds to find a product, then a timer counts down until the next product is retrieved.
+A manager oversees this electronic data-flow to ensure all the pickers keep up to speed
+throughout their ten-and-a-half hour shifts that involve up to eleven miles of walking. Professor
+Michael Marmot, a leading expert on stress at work, argues that these conditions greatly increase
+
+## Ranking: From Education and the Military to the Corporation and Back
+
+Ranking: From Education and the Military to the Corporation and Back
+
+In 1817, the new principal of the West Point Military Academy, Sylvanus Thayer, instituted an
+educational system, which he borrowed from the École Polytechnique in France, based on
+arithmetic grading. Thayer established a hierarchical structure at the Academy, down which rules
+and regulations passed to the students, and up which flowed regular and systematised reports
+including students' grades. The authors of this study explain:
+
+This is a total accountability system, where all aspects of performance, academic and
+behavioural, are constantly measured, evaluated and recorded in a joint numerical-
+linguistic language which is also a currency (Hoskin and Macve 1988: 49).
+
+According to Hoskin and Macve, every student's subject knowledge was tested daily, weekly
+and half-yearly and marked according to a standardised, 7-point numerical scale. Students'
+aptitude, study habits, and whether their conduct was sufficiently ‘military' were also recorded in
+weekly, monthly and half-yearly reports, and given a grade on a 7-point descriptive scale from
+'excellent' to 'indifferent'. Both sets of reports went up the hierarchy. The marks were used to
+divide each year into four graded classes. Each student knew his place and what he had to do to
+move up the ranking. This was
+
+an exhaustive hierarchical reflexive system of command and communication, ... which
+(ideally) made every individual in the institution constantly visible and accountable for his
+behaviour (Hoskin and Macve 1988: 59).
+
+The West Point students were made into calculative, self-disciplined selves. They learnt the
+norms against which they were marked and they knew what they had to do to improve their
+grades. Their final mark determined how prestigious their first appointment would be, and their
+record accompanied them throughout their military career and beyond.
+
+This system produced the best civil engineers in the country. It also produced some of the best
+managers of the armouries, the railroads and the newly forming industrial corporations. They
+imported into these organisations a hierarchy down which passed meticulous regulations and up
+which passed written reports with number-based, normalising judgements. These reports graded
+each employee's productivity and were the currency for comparing units, so that every employee
+'felt and often remarked that the eyes of the company were always on them through the books'
+(Chandler 1997: 267-8 quoted in Hoskin and Macve 1988: 67). In short, the organisation of
+corporate America relied heavily on the West Point graduates' reflexive knowledge about how to
+
+create a system of organisation and discipline that turned managers and workers into calculative,
+accountable selves.
+
+This method of accounting was further refined by Frederick Taylor's (1913) Scientific
+Management, which analysed workflows in order to improve labour productivity. Taylor's ideas
+were influential in the organisation of domestic industries during the First World War and were
+taken up in the 1920s as part of the Scientific Management Movement. Although Taylor visited
+Henry Ford's automobile factory in Michigan shortly before he died in 1915, Ford was
+developing his own principles of modern mass production and automation that paralleled
+Taylorism. Initially, Ford's success derived from dividing the car manufacturing process into
+standardized small elements, then costing and measuring every aspect of production to achieve
+efficiencies whilst carefully maintaining oversight of the assembly line's coherence and flow.
+But fragmenting the production process also had negative consequences. During the 1940s
+Henry Ford II employed ten ‘whiz kids' from the army airforce's statistical team to create further
+productive efficiencies. One of these, Robert McNamara, became president of the Ford Motor
+Company in the 1950s. As President, he used the new IBM computers to feed numbers into
+spread sheets to turn what had been a family company into ‘an omniscient operating system',
+albeit one that he later admitted he would ‘go out of my way to discourage my son from working
+in' (Starkey and McKinlay 1994: 980, quoted in Martin 2010: 16). The manager of each section
+was given targets and their performance was measured by a higher bureaucracy. This created a
+task-driven, fiercely competitive culture, in which each section competed with every other, and
+gamed the system to advance their own institutional position. This system became counter-
+productive and dysfunctional when concern for internal competition and intrigue far outweighed
+any overall vision of the quality of the car or the satisfaction of the customer. Situations arose in
+
+which, as one manager confessed, supervisors were only concerned with ‘meeting output targets
+… even if it meant subverting Ford's quality control systems' (Martin 2010: 16-17). As Tom
+Peters, co-author of the famous management book In Search of Excellence, complained:
+
+Start with Taylorism, add...a dose of McNamaraism, and by the late 1970's you had the
+great American corporation that was being run by bean counters (2001: 88).
+
+When he was appointed US Secretary of Defence under President Kennedy, McNamara
+transferred this system to the running of the Vietnam War. But he later admitted that 'body
+counts' proved a disastrous substitute for ‘our profound ignorance of the history, culture and
+politics [of Vietnam]' (McNamara quoted in Martin 2010: 16).
+
+If McNamara's handling of the Vietnam War is an international example of the immorality of
+governing by numbers, another example from the automobile industry highlights the ‘banality of
+evil' that may result from the marriage of cost accounting with the single-minded pursuit of
+profit that is the driving force and legal mandate behind the modern corporation. Joel Bakan
+(2005) describes the story of the liability case, Anderson v. General Motors Corporation, where
+the jury awarded Patricia Anderson a $4.9 billion verdict. On Christmas day 1993 Anderson, her
+four children and a family friend were driving home from Christmas mass when the back of her
+car, a Chevrolet Malibu, was struck by a drunk driver. The Malibu's gas tank exploded on
+impact. The adults were able to escape but the four children were trapped in the back seat and
+suffered terrible second and third degree burns. The plaintiffs filed their lawsuit on the grounds
+that the fuel tank was dangerously positioned, just 11 inches from the back bumper, to save
+costs, with no metal brace to separate the fuel tank from the rear of the car. A company directive
+had recommended that fuel tanks be at least 17 inches from the rear bumper and during the trial
+
+their lawyers obtained GM internal memos that the company had blocked in previous lawsuits.
+These revealed a damning 1973 report written by GM engineer Edward Ivey which concluded
+that it would be cheaper to maintain the current fuel tank than design a tank that did not explode
+in a crash. Ivey's report estimated there would be 500 fatalities related to accidents with fuel-fed
+fires and that each fatality would cost $200,000 in compensation. He then calculated that since
+there were 41 million General Motors automobiles on the road, the cost per car to GM would be
+$2.40. On the other hand, the cost of designing a non-exploding fuel tank would be $8.59 per car.
+Hence, the company stood to ‘save $6.19 per automobile if it allowed people to die in fuel-fed
+fires rather than alter the design' (Bakan 2005: 63). Although it is not clear whether anyone in
+senior management had seen Mr. Ivey's report, the judge described GM's behavior as 'morally
+reprehensible and against applicable laws because it had put profits above public safety' (Bakan
+2005:63). The court awarded Armstrong and her children compensatory damages of $107
+million and unprecedented punitive damages of $4.9 billion. A Los Angeles Superior Court later
+reduced this to $1.09 billion. Even so, the US Chamber of Commerce called this an ‘illegitimate
+result' on the grounds that manufacturers' use of cost-benefit analyses in the design of products
+is 'a hallmark of corporate good behaviour' and the ‘logic underlying it is unimpeachable'
+(Bakan 2005: 63-64).
+
+Regardless of these failures both in industry and in the military, the idea of financialising the
+operations and performance of complex organisations and turning their activities into numbers
+was transposed to the public sector in the 1980s as a core feature of ‘New Public Management'.
+As we have documented elsewhere (Shore and Wright 1999; 2000) the work of schools,
+hospitals, municipal government, provision for the elderly, and most other public services were
+reduced to numerical score sheets and ranked in competitive league tables. These new regimes of
+
+accountability were justified in the name of efficiency and transparency. The performance of
+players at the top of the league were distilled and de-contextualised as ‘best practice' to be
+spread to the others, notably those ‘named and shamed' at the bottom of the league. Key
+performance indicators (KPIs) were devised as measures of the quality, efficiency and value for
+money of virtually all public services. Typically, performance was expressed in financial figures
+and while claims were made that these numerical indicators were only ‘proxies' for quality or
+effectiveness, in reality monetary value became the dominant measure. In this way,
+quantification and scientific management were married to a project of ‘financialisation' and a
+new ethics of accountability.
+
+A new period in the evolution of this system of governing through numbers was its re-
+introduction into universities. Britain, Australia and New Zealand were early pioneers in the
+1980s (Wright et al. 2014). First, Britain developed a national evaluation of university research
+called the Research Assessment Exercise (RAE). The research output of each department was
+read by a committee of peers from the relevant discipline and, reminiscent of the West Point
+system, was graded on a 7-point marking scale. While initially each institution received a
+standardized amount of funding per researcher, in the course of successive RAEs, governments
+used these grades to concentrate funding on those at the top of the league table and to
+progressively withdraw funding from those at the bottom. By 2001, 75 per cent of research
+resources were concentrated on the top tier of departments. This method of ‘rewarding success'
+and 'punishing failure' ensured that those universities lower down the scale were denied the
+resources that might enable them to pull themselves up. The same punitive model was applied to
+the national school system, with similar effects. Such systems of grading and ranking have
+'skewing effects' as academics also know from the literature on ‘teaching to the test' and the
+
+‘washback effect' of any examination system (Cheng et al. 2004). The skewing effects of
+systems of measuring and grading universities' research output are now so familiar they have
+acquired their own terminology such as ‘salami slicing' (cutting research results into small
+chunks, each published as a separate journal article), ‘rushing to press' (publishing partial results
+as soon as they are available rather than making a mature and considered analysis) and the ‘star
+player' syndrome (hiring high profile researchers just before a research assessment exercise)
+(Wright 2009, Shore and McLauchlan 2011: 282). The UK's House of Commons' Science and
+Technology Committee called the RAE a ‘morass of fiddling, finagling and horse trading' that
+was 'starting to lack credibility' (2004: 21). Similarly, a British Academy Policy Centre report
+warned of the perverse effects of using aggregated measures and rankings punitively to name and
+shame, rather than developmentally to internally diagnose and remedy problems (Foley and
+Goldstein 2012).
+
+With the multiple borrowings of these ranking systems - from the French École Polytechnique to
+West Point Academy to the management of private corporations and from there to the public
+sector including universities - important shifts occurred both in the assessment technologies and
+their effects. These 'omniscient operating systems' became ever more ‘individualising and
+totalising' (Foucault 1977) in that they simultaneously worked across scales to order a whole
+population or sector whilst also rendering military cadets, factory workers and university
+students as calculating and ‘calculable' subjects. At the same time, these ranking technologies
+also radically reshaped institutions in their own image, for as is well known, when a feature of an
+organization is measured, that measure becomes a target. This is often referred to as 'Goodhart's
+law' after the advisor who warned Britain's Conservative government in the 1970s against trying
+to conduct monetary policy on the basis of targets (Goodhart 1975). A recent illustration of this
+
+tendency to turn measures into targets was the aborted Australian system for grading the quality
+of research publications according to ranked lists of journals. At the last minute, the then-
+Minister for Higher Education cancelled the system following evidence that university research
+managers were setting academics targets for publications in top ranked journals. He condemned
+this conversion of the measure into a target as ‘ill-informed and undesirable behaviour in the
+management of research' (Carr 2011). Michael Power has noted that audit procedures 'transform
+the environments to which they are applied' effectively colonizing and ‘permeating the auditee
+organisation totally' (1997: 90, 97). The effect is that organisations reshape their operations and
+values around that which is measured. Equally importantly, individuals are interpellated as
+'auditees' whose behaviour is expected to align with the rationality of audit (Power 2005: 335).
+
+The examples above highlight wider theoretical points which, building on Merry (2011), we call
+'audit effects'. We identify five of these that are of particular importance:‘domaining effects';
+'classificatory effects'; 'individualising and totalizing effects'; 'governance effects'; 'perverse
+effects'. We elaborate briefly on each of these in turn.
+
+Domaining effects are where the introduction of audit and ranking into a new organisational
+context radically reshapes that environment in ways that mirror the values and priorities
+embedded within the audit technologies themselves. The application of audit to environments for
+which it was never originally designed can produce a 'runaway effect' as the newly created
+systems and modes of operating gather their own momentum, as illustrated above where
+McNamara's competitive accounting model at Ford spiralled out of control.
+
+Classificatory effects highlight the fact that indicators and statistics are never neutral. Like other
+systems of measurement, an audit produces knowledge by ‘announcing what it measures, such as
+
+“rule of law” or “poverty” (Merry 2011: S84) and hailing into existence the subjects it
+categorises and labels. The way that institutional systems classify and order populations has been
+amply documented by Foucault (1980) and others. However, audit changes the values, priorities
+and practices of organisational subjects in subtle and often unnoticed ways such that their subject
+positions are transformed. This is what Ian Hacking (2004) has elsewhere termed ‘dynamic
+nominalism' or the 'looping effect'. Hacking exemplifies this with reference to the invention of
+medical categories such as ‘multiple personality disorder', ‘IQ' and 'obesity' but it is equally
+evident in the classification of ‘failing schools', 'lowest ranking cadet' (such as the “West
+Point's goat"), and Fortune's ‘most admired' human resources department.
+
+The way these classifications and rankings tend to simultaneously order both whole populations
+and individuals is captured by the ‘individualising and totalising effect'. Key to the success of
+this process is the neat, simple and efficient way in which it achieves its effectiveness – at
+minimal cost and effort to the organisation. For example, when the international standing of
+universities is turned into a performance indicator, and that indicator is used to allocate
+funding, this simple mechanism has effects across three scales: the whole sector is reorganised in
+pursuit of competitive advantage; each organisation is re-purposed around the targets and
+incentives, and every individual is impelled to concentrate on ‘what counts' (Wright
+forthcoming). It was to avoid such a pervasive effect that Australia's Higher Education minister
+intervened to cancel the Excellence in Research for Australia initiative. However, US law school
+deans have been unable to contest their version of the 'individualising and totalising' effect as
+their ranking determines their position in the market and ability to attract income from student
+fees (Sauder and Espeland 2009). Governance through numbers, as these examples show, creates
+
+ranking regimes that operate across multiple scales, producing a ‘total accountability system'
+(Hoskin and Macve 1988).
+
+'Governance effects' are a corollary of these individualising and totalising mechanisms. Setting
+performance indicators and assessing against benchmarks and best practice are instruments
+designed to make organisations more ‘accountable' to funders, government, stakeholders,
+consumers and the public. While they render individuals and organisations more ‘legible' to
+external experts, there is a coercive dimension to that accountability: organisations must
+represent themselves in terms of the narrow, predetermined script of expert assessors, in what
+Strathern (2000a) calls the ‘tyranny of transparency'. These ways of opening up organisations for
+scrutiny and inspection also provide a vehicle for enacting and extending the presence of the
+state or what Mitchell (1999) has termed the ‘state effect' (see also Trouillot 2002).
+
+Finally, 'perverse effects' draw attention to the ways in which governing by numbers, when
+taken to extremes or misapplied - such as in the Vietnam war fails to deliver what it promises
+and, whether one counts beans or bodies, may result in decision-making that is amoral or
+outcomes that are immoral. One dimension of this is the increasing stress and anxiety that
+rankings produce among individuals who are driven to over-perform (King and Moutsou 2010;
+Wright 2011). As a BBC ‘Panorama' investigation into the employment conditions at one of
+Amazon's UK warehouses found, intensified time-and-motion techniques have been taken to
+new levels. Amazon gives its ‘pickers' handsets which tell them what to collect from the shelves.
+It allots 33 seconds to find a product, then a timer counts down until the next product is retrieved.
+A manager oversees this electronic data-flow to ensure all the pickers keep up to speed
+throughout their ten-and-a-half hour shifts that involve up to eleven miles of walking. Professor
+Michael Marmot, a leading expert on stress at work, argues that these conditions greatly increase
+
+## A New Industry of Measuring and Ranking
+
+A New Industry of Measuring and Ranking
+The rise of systems of auditing and ranking has been accompanied and fuelled by the growth of
+international firms specialising in accountancy and statistical ratings. These include, at one
+extreme, the various credit rating agencies that have now consolidated into the 'Big 3' firms of
+Moody's, Standard and Poor's, and Fitch. These agencies measure the creditworthiness of
+countries and organisations (including universities) and their letter-grades ranging from 'AAA'
+to 'D' communicate the agencies' view of the level of credit risk. These opinions affect the rates
+of interest at which a country can borrow money, sometimes with seriously deleterious
+consequences, as for example in February 2012 when Fitch down-graded Greece from ‘CCC' to
+'C' or 'junk' status, thereby massively increasingly the country's already unsustainable level of
+national debt (Paphitis 2012). At a more micro-level, credit reference agencies and bureaux with
+Dickensian-sounding names such as ‘Paydex', ‘Experian Intelliscore', ‘Dunn and Bradstree',
+'Equifax' and 'Call-Credit' score the creditworthiness of individuals to determine a person's
+eligibility for a mortgage, personal loan or credit card.
+In the field of international accounting, four large commercial firms dominate the market:
+Deloitte, PricewaterhouseCoopers, Ernst and Young, and KPMG. Significantly, in 2011-12, a
+period of continuing financial crisis in Europe and the USA, the revenues of these companies
+grew by an astonishing 6 per cent, netting a record $110 billion thanks to their expansion into
+
+emerging economies. Each of these firms now operates in over 140 countries and employs
+between 140,000 and 200,000 professional staff. The largest of them, Deloitte, represents itself
+as:
+the brand under which nearly 200,000 professionals in independent firms throughout the
+world collaborate to provide audit, consulting, financial advisory, risk management,
+and tax services to selected clients (Deloitte 2013a).
+The Big 4 owe their global success in large measure to the privatisation policies of the 1980s and
+1990s when neoliberal-inspired governments outsourced and privatised state services but
+required them to be audited by a commercial accounting firm. In the early 2000s in the UK
+alone, over 600,000 limited companies, plus schools, hospitals, charities, local authorities,
+pension funds and trade unions were required by law to undertake annual financial audits
+conducted by professional accounting firms. The Big 4 gained the largest share of this work.
+However, another key development during the 1990s was the expansion of the remit of these
+accounting firms and their shift from financial accounting into other professional domains.
+Promotional material produced by the Big Four illustrates just how far their business has
+extended beyond financial accounting. PwC now offers services and expertise in twenty-two
+industry sectors that range from aerospace and defense, asset management, capital projects and
+expenditure, to entertainment and media, government/public services, health care,
+pharmaceuticals and life sciences. PwC even offers services in anti-corruption and
+whistleblowing. These global accounting firms often sell their services on the basis of being
+‘integrity warriors' whose mission is to ensure financial probity and ‘good governance' but their
+own financial practices are anything but ‘best practice'. As Cousins et al. (2004: 4) point out, all
+
+four 'are headquartered in secretive tax havens without information sharing treaties with other
+countries'. Each of the Big 4 has been criticized for its own illegal activities. A study by Her
+Majesty's Revenue and Customs (HMRC) in the UK estimated that the Big 4 'were behind
+almost half of all known [tax] avoidance schemes' (Sikka 2012), although, paradoxically,
+HMRC has itself been criticized by the British House of Commons' Public Accounts Committee
+for its cozy relationship with the Big 4 (Sikka 2011). Investigations by the House of Commons'
+Public Accounts Committee have put some of their predatory practices on the public record.
+KPMG was fined $456m (£284m) for facilitating tax evasion and some of its former personnel
+were sent to prison. Ernst and Young devised a scheme for Iliffe News and Media group to turn
+their profits into royalties, then claim tax relief on those royalty payments. The company board's
+minutes stated that Ernst and Young, who also audited the company's financial accounts,
+confirmed that the use of this scheme would ‘significantly lessen the transparency of reported
+results' (Sikka 2012). KPMG has also been in trouble for cold calling companies to offer them
+tax avoidance schemes. One scheme enabled a company with 127 amusement arcades in the UK
+to avoid paying Value Added Tax (VAT). It improved the company's profits by £4.2m and
+KPMG charged its client £75,000 and a fee of 25 per cent of the avoided VAT in the first year,
+15 per cent in the second year, and 5 per cent thereafter (Sikka 2012). Even though KPMG knew
+the UK tax authorities would regard the scheme as‘unacceptable tax avoidance', when they lost
+their case in the UK's High Court, they pursued it in the European Court of Justice - which also
+declared the scheme unacceptable.
+In 2012 PricewaterhouseCoopers (PwC) was also fined (this time £1.4 million) for seven years
+of false reporting to the UK's Financial Services Authority about JP Morgan, one of the banks it
+audited. PwC was found to have not carried out its work ‘with due skill, care and diligence and
+
+with proper regard for the applicable technical and professional standards expected of it' (Pratley
+2012). Taking up the mantra of turning risk into business opportunity, another of the Big 4 has
+recently launched an online, ‘anti-corruption and anti-fraud tool' called ‘Deloitte Diligence'
+which 'helps organizations address regulatory and reputational risk by streamlining the
+management of third-party investigations and analysis' (Deloitte 2013b). ‘Diligence' in this
+context not only means conducting ‘due diligence' on behalf of clients, but also carefully
+screening information to avoid the ‘new risks' of adverse media and the attention of watchdog
+and regulatory bodies.
+The Big 4 have expanded their operations not only into new sectors but also into developing
+'internal audits'. Whereas the traditional auditor's role was to offer impartial and detached
+scrutiny of an organization's accounts, ‘internal audit' is a consulting activity based on detailed
+knowledge of a sector and its market niches. By monitoring and analyzing organizational risk
+and by 'data harvesting', it aims to add value and improve an organization's operations while
+ensuring compliance with procedures and laws. For example, Ernst and Young (2013) claims
+that its 'clean technology' experts will make a ‘sustainability assessment' by ‘look[ing] across
+your business to understand what will work for you from carbon credits, green IT, to green real
+estate transactions'. However, internal audit also entails ‘working in partnership with
+management' to mitigate risks and ensure ‘that the organization's corporate governance is strong
+and effective' (Cornell University Audit Office 2013). As Ernst and Young advertise:
+in addition to internal audit knowledge, stakeholders expect internal auditors to have the
+ability to team with management and business units on relevant business issues. They
+also expect internal audit resources to have deep sector knowledge and business acumen
+(Ernst and Young 2012)
+
+The problem here is that there are bound to be conflicts of interest where the same firm that
+provides an external, impartial audit is also ‘working in partnership' with the company's senior
+management to improve its business performance and is closely involved in its internal
+operations. For example, in Denmark, PwC advises the Ministry of Education, and acts as
+external auditor for several universities where it is also consultant and ‘sparring partner' for the
+senior management. In this case, PwC claims deep experience in dealing with complex
+relationships. In other instances such entanglements may help explain the growth in cases of tax
+evasion and collusion between audit firms and companies.
+During this period, other organizations have also emerged to audit and rank specific sectors. The
+OECD is notable as the international agency that produces Education at a Glance and the PISA
+ranking of public education systems, which governments take extremely seriously and use to
+shape their policies. Some publishing firms have developed business plans based on producing
+university rankings at national and global scales, such as the Times Higher Education's ‘World
+University Ranking' and the US News and World Report's ‘Best College Guide'. For QS
+university rankings, a second income stream is generated by universities' commissioning
+detailed analyses of their performance and consultancy services on how to improve it. Further
+companies provide citation data for the ranking organizations, notably Thomson Reuters (2013)
+which describes itself as 'the world's leading source of intelligent information for businesses and
+professionals'. The citation indexes focus on the leading journals in each field, which have been
+acquired by the larger publishing companies. They extract profit from ‘free’' academic labour
+(i.e. in writing, peer reviewing and editing journal articles etc.), then they sell the products back
+to university libraries at high cost (Ciancanelli 2007). The competitive game of universities
+struggling for 'world class' status is thus a mechanism of audit culture second to none, which
+
+provides new revenue streams for the industries that have mushroomed from the imperatives of
+measuring and ranking.
+
+## Why Managers and Governments Adopt Auditing Technologies
+
+Why Managers and Governments Adopt Auditing Technologies
+
+University leaders today are confronted with a bewildering array of measurements that rank
+different aspects of a university; everything from its credit-worthiness and success in attracting
+competitive funding, to its environmental sustainability, its standing in the world and its score
+for 'student experience'. Many of these numerical systems measure things that academics do not
+regard as important to teaching and research and some academics have used their expertise to
+show how these rankings are arbitrary, unreliable and flawed. Given such critiques (Gladwell
+2011), why do university leaders accredit these rankings with such importance? This is an
+empirical question which we address by drawing on three ethnographic examples.
+
+Our first case study shows why university leaders criticize the rankings yet still treat them with a
+seriousness bordering on obsession. Regardless of the measures used, six university ‘global
+superbrands' top all global rankings and occupy ‘a special zone beyond ordinary competition'
+(Baty 2012). The grades in the middle ranks are then so similar to each other that the slightest
+change in the definition or weighting of one measure can move universities up and down the list
+quite substantially. University leaders have to follow these changes assiduously as they are aware
+that parents and students use ranking as proxies for quality and status. When US News and World
+Report began making an annual ranking of US law schools, the Dean at Yale called it an ‘idiot
+poll' and Harvard's Dean described it as ‘Mickey Mouse, just plain wacky and totally bonkers'
+(Sauder and Espeland 2009: 68). Despite this repudiation, all of the deans in Sauder and
+Espeland's study of law schools admitted to devoting vast resources to playing the ranking game.
+A 'good dean' knows in intimate detail how the variables in each of the rankings are constructed
+and will check that they are registering all the positive figures (about students, staff, income,
+publications, exam performance, graduate employment etc.) in precisely the right way for the
+ranking companies to pick them up in their questionnaires and surveys. The deans explained that
+the rankings are ‘omnipresent': that academic decisions about the curriculum, evaluation of
+subordinates, faculty publication strategies, admissions policies and budget allocations are all
+shaped by their likely effect on the school's numbers and ranking. Whether making budget
+allocations or keeping meticulous records of inconsequential details, administrators resent the
+all-consuming attentiveness to the presumed requirements of the for-profit ranking companies.
+But there are serious punishments for not doing so. If they get it wrong, their school could slip
+down the scale, with dire consequences for their ability to attract students, maintain fee income,
+and hence sustain academic employment. Thus, the deans' unwilling endorsement ‘makes these
+shaky measures pervasive and generative of the organisation itself (Sauder and Espeland 2009:
+68).This account shows how such measurements are simultaneously individualising and
+totalising and illustrates their coerciveness - and why they are so impervious to criticism.
+
+Our second case concerns the attempts by the management of the University of Auckland to
+transform the institution into a more ‘entrepreneurial university'. Whereas in the previous case
+the object of measurement was the Department or School, in this case the focus was on the
+individual academic. The Vice Chancellor (as the 'Employer') sought to change unilaterally the
+criteria for academic standards and promotion in order to incentivise academics to increase their
+outputs and engage in commercial and income-generating activities. He replaced the traditional
+promotion system whereby peers assessed the teaching, research and service of colleagues as
+‘Satisfactory', ‘Merit' and ‘Excellent'. Instead of these qualitative categories, the new
+'Academic Standards' policy was based on numerical measures and quantifiable output targets
+for each grade claiming that this would enable promotions to be based on ‘transparent' and
+'objective' evidence of ‘sustained performance'. The ‘academic standard' expected for
+promotion to the rank of professor in a social science discipline was now at least 50 publications
+in high quality journals; research with ‘a demonstrable quality and impact'; no less than 6
+Honours, 8 Masters and 8 and 8 PhD students supervised to completion; and ‘three major
+external grants', each yielding in excess of $100,000 (UoA 2013:4). These criteria discriminate
+heavily in favour of the STEM subjects (Science, Technology, Engineering and Medicine) and
+present obstacles for New Zealand's social scientists as there is only one major source of
+fundamental research funding, the Royal Society of New Zealand's Marsden Fund, which
+awards only 10-12 social science projects per year and has a success rate of approximately 8 per
+cent. As several academics were quick to point out, by these standards, virtually none of New
+Zealand's existing social science or humanities professors would qualify for promotion to senior
+lecturer, let alone professor. The task of quantifying these outputs for each candidate falls to
+Human Resources (HR), whose personnel now play a greater role in the new promotions
+committees, exemplifying the wider trend, noted earlier, of technocratic criteria overriding
+qualitative and professional judgements.
+
+The Employer argued that the promotion criteria needed greater ‘clarity and transparency'
+because academics were confused by the multiple potential meanings of terms like ‘merit' and
+'satisfactory', even though Heads of Department and members of the university's own Staffing
+Committee said they rarely experienced problems working with the old criteria.
+
+When challenged about the alleged benefits of these new yardsticks, the Employer claimed they
+were based on ‘best practice' among Australia's leading ‘G8' universities. Members of the
+university Senate found that this ‘benchmarking' exercise consisted of little more than a brief
+email exchange between the former Director of HR and her counterparts in these Australian
+universities. Many academics, led by their union, responded to the Employer's ‘consultation
+process' by highlighting the numerous flaws in the new system of academic standards. In
+addition, they noted that the process was being driven by the university's cost-cutting goals and
+its ambitious revenue targets in the ‘strategic plan'. It seems that the new, quantified and
+financialised performance targets for promotion were being aligned with the Vice Chancellor's
+own key performance indicators (KPIs) although, like all company CEOs, those KPIs are
+deemed confidential. This example highlights one of the striking features of audit culture and
+how it achieves its ‘governance effects'. Demands for transparency and accountability are
+characteristically one-directional and top-down as those in positions of power seek to make
+legible the performance of those below them without being accountable to those they govern. In
+this case, however, the Tertiary Education Union did manage to successfully contest the Vice
+Chancellor. They took the case to mediation at the Employment Relations Authority, which ruled
+that the Employer had breached his statutory obligations to involve academics in this area of
+shared university governance (TEU 2013). When the Vice Chancellor continued his efforts to
+impose his new ‘Academic Standards' policy, the union took the case back to the Employment
+Relations Authority and won again (Shore and Davidson 2014).
+
+Whereas in the US example rankings reshaped the organisation of schools and in the New
+Zealand case measures aimed to reshape the conduct of individual academics, in our third
+ethnographic example, from Denmark, one numerical instrument was designed to act
+simultaneously on three scales: the sector, the institution and the individual. The Danish
+government's reforms of 2003 explicitly sought to make universities the ‘drivers' of Denmark's
+competitiveness in the global knowledge economy. New management structures were
+implemented so that government could trust universities to use an increased allocation of public
+funding strategically to benefit industry and ‘surrounding society'. Money was to be allocated
+competitively between the universities and this necessitated creating a new funding formula,
+which initially was to have three elements - teaching, research and knowledge exchange. The
+research element was based on a ‘bibliometric points system' which required all academics to
+enter their publications into a national data-base each year. In 2007 sixty eight disciplinary
+committees involving 360 academics were set up to make an authorized list of all journals and
+publishers in each discipline and to distinguish the top 20% ‘level 2' outlets. This work took two
+years to complete not least because the Ministry attempted to rationalise the lists and 58 of the 68
+chairs signed a petition stating that the consolidated lists were not an appropriate tool for
+allocating funding. The Ministry withdrew its lists and the committees began their work again.
+The Ministry now uses the authorized lists each year to allocate numerical scores for each
+publication (e.g. three points for each ‘level 2' journal article and one for each ‘level 1'). It then
+calculates the overall scores for each individual, department and university. Despite the time-
+consuming complexity of this method, the eventual funding formula only gives a very small
+weighting to these bibliometric points. However, the attempt to create a metrics for ‘knowledge
+exchange with surrounding society' collapsed. This has resulted in an even heavier reliance on
+research scores than originally intended. Whereas the government's main aim was to make
+universities more outward facing, it has ended up with a system that privileges publications in
+elite academic journals that have a notoriously small public readership. This competitive funding
+formula has been very successful in reorganising the sector with the aim of getting three of the
+eight universities to perform more strongly in the international rankings. At the same time, this
+formula has been used by university management to make faculties and departments compete
+with each other for funding and reorganize their institutions around a financial calculus and
+competitive ethos. This, in turn, has reshaped the subjectivities of some academics who value
+themselves in terms of how many points they earn for their department. However, academics in
+some faculties have organised successful collective opposition to what many termed an
+'existential threat' to academic identity and values (Wright forthcoming). . These three empirical
+examples exemplify why governments and managers have so eagerly embraced audit culture: its
+techniques provide indispensable tools of contemporary management that are extremely effective
+insofar as they align individuals, institutions and whole sectors within a space of governance.
+
+Conclusion: audits, ranking and the (re)ordering of society
+
+The institutionalized processes of measuring and ranking described above and their spread into
+many domains of organisational and social life reveal the emergence of a new type of
+governmentality based on a financial calculus; an instrumental, results- and target-driven
+normative order which governs by numbers and, more importantly, through numbers. While not
+confined to neoliberal polities, its characteristics include all neoliberalism's key ingredients
+including 'governing at a distance'; a relentless pursuit of economic efficiency; deregulation,
+outsourcing and privatisation; marketisation and the privileging of competition over cooperation;
+increasing separation between an empowered managerial elite and a deprofessionalised
+workforce; the objectification of human labour combined with increasing emphasis on
+calculative practices aimed at promoting individualisation and responsibilisation. In this way, the
+political technologies of financial cost accounting wedded to the project of management have
+been highly effective in producing accountable and transparent subjects that are simultaneously
+docile yet self-managed.
+
+Our study shows the diversity of forms that audit culture can take in different settings, but also
+the similarities of its effects. Its governance effect is seen most notably in the example from New
+Zealand where the logic and instruments of financial accounting was used to incentivize
+academic performance. Measurement and rankings serve a variety of political purposes. First,
+they appear to provide a more rational way of controlling institutions through new configurations
+of knowledge and power. Second, they are extremely effective in opening up for external
+scrutiny the inner worlds of organizations and they render commensurable and controllable all
+kinds of disparate individuals, institutions and objects with diverse and incommensurate features.
+Third, numbers exert a curiously seductive power (Porter 1996). Indicators are assumed to be
+objective and unambiguous because of their association with science and the ‘pure and constant
+rules of mathematics' (Merry 2011: S90). As Strathern (2000b:8) puts it, ‘an aura has come to
+surround numbers and, despite the caveats of professional auditors, it is those unfamiliar with
+financial auditing who tend to sanctify them'. Significantly, the people who are enamored by
+numerical rankings ‘tend to be those most distant from their production' (Sauder and Espeland
+2009: 72).
+
+The introduction of audit and accounting changes the nature of the organisations so that their
+activities become increasingly focused on the measures by which their performance is judged.
+Indeed, this belief that organisational behaviour can be engineered and improved through targets
+and elaborate procedures of internal audit is central to the advertising claims of the Big 4
+accountancy firms. They see this ‘domaining effect' as a positive outcome that delivers
+efficiency, commensurability and accountability (but critics might ask for whom and to whom?)
+The study by Sauder and Espeland shows the powerful domaining effect of numerical measures
+as they provide transposable templates for managerial control and make possible new forms of
+remote surveillance. ‘They are abstract, concise, easily portable; because they decontextualize so
+thoroughly they travel widely and are easy to insert into new places and for new uses' (Sauder
+and Espeland 2009: 71).
+
+These regimes of audit also create the categories into which people are invited to rethink
+themselves. This ‘classificatory effect' is viewed as delivering positive outcomes by those who
+sell and operate these systems, but again critics might point to the other (‘individualising and
+totalizing', 'governance' and 'perverse' effects) and draw different conclusions. All three case
+studies show the classificatory effects of rankings and the way they shift power away from
+professionals and onto managers and administrators. The use of numerical performance
+indicators has been highly instrumental in distinguishing a new class of technocrats (managers,
+accountants, administrators, human resources officers, executive leaders). They are tasked with
+controlling the organisation and ensuring it meets its targets and are separated from the
+professionals and workers who deliver the services and create value in the organisation.
+Quantitative indicators provide hard evidence for the claim that managers are improving quality
+or achieving measurable yardsticks of progress.
+
+When professionals contend that these regimes of accountability have 'perverse effects' and do
+not improve quality - or may even damage their institutions and services - they are often cut out
+of the conversation between the policy makers and the public. Indeed, according to ‘agency
+theory', professionals must be excluded from direct involvement in the management of an
+organisation to protect it from institutional capture' (Olssen and Peters 2005).
+
+Our examples suggest that audit culture and its effects are having a number of negative
+consequences. Building on Power (2009: 333-4), the following can be highlighted:
+
+1. loss of organizational trust (Power 1994; O'Neill 2002);
+2. elaborate and wasteful gaming strategies (Shore and Wright 2000; Wright 2009; House of
+Commons 2004);
+3. a culture of compliance and large compliance costs, including the appointment of new
+specialists preoccupied with creating positive (mis)representations of performance
+(Miller 2003)
+4. defensive strategies and blamism that stifle innovation and focus on short-term objectives
+over long-term needs (Hood 2002)
+5. de-professionalization, a disconnect between motivation and incentives, lower employee
+morale and increased stress and anxiety (Brenneis et al. 2005; Bovbjerg 2011)
+6. 'tunnel vision' and performing to the measure with a focus solely on what is counted, to
+the exclusion of anything else (Townley and Doyle 2007)
+7. the undermining of welfare and educational activities that cannot be easily measured
+(King and Moutsou 2010).
+
+Given these combined effects, it seems imperative to find ways to re-claim the space for
+professionalism that are placed at risk by the spread of audit culture. Evidence from New
+Zealand and Denmark shows that some people are developing strategies for resistance. Sauder
+and Espeland (2009) explain how selective reporting on performance and control over the
+representation and legibility of activities is used to preserve space for the exercise of professional
+values. They call these tactics ‘buffering', but such strategies also carry risks of organizational
+schizophrenia (Shore and Wright 1999). Another potential strategy is to take back control over
+the measures used to evaluate professional performance by creating alternative experts and
+systems of evaluation and insisting that organisations be evaluated in their own terms. Again, the
+risk here is one of cooptation of professional values and their conversion into managerial
+indicators and instruments. After all, accountability, responsibility, quality, self-management and
+transparency are all values that professionals would normally espouse. This is another reason
+why it is so difficult to criticize or challenge audit as it often hinges on a redefinition of the
+words and ideas that auditees themselves hold dear (Wright 2005; Shore 2008). A further
+strategy would be to accept that numerical indicators are here to stay, but to change the focus of
+what counts. Instead of efficiency, economy and outputs one could develop other measures of
+success. For example, wellbeing, happiness and quality of life rather than GDP, as argued in the
+recently published report by Stiglitz et al. (2009). However, given the individualising and
+totalising nature of governing by numbers, as the New Zealand and Danish case studies show,
+the most successful antidote probably lies in collective action and a reassertion of academic and
+professional values. If there is power in numbers, there is also strength in numbers.
+
+## Conclusion: audits, ranking and the (re)ordering of society
+
+Conclusion: audits, ranking and the (re)ordering of society
+The institutionalized processes of measuring and ranking described above and their spread into
+many domains of organisational and social life reveal the emergence of a new type of
+governmentality based on a financial calculus; an instrumental, results- and target-driven
+normative order which governs by numbers and, more importantly, through numbers. While not
+confined to neoliberal polities, its characteristics include all neoliberalism's key ingredients
+including 'governing at a distance'; a relentless pursuit of economic efficiency; deregulation,
+outsourcing and privatisation; marketisation and the privileging of competition over cooperation;
+increasing separation between an empowered managerial elite and a deprofessionalised
+workforce; the objectification of human labour combined with increasing emphasis on
+calculative practices aimed at promoting individualisation and responsibilisation. In this way, the
+political technologies of financial cost accounting wedded to the project of management have
+been highly effective in producing accountable and transparent subjects that are simultaneously
+docile yet self-managed.
+Our study shows the diversity of forms that audit culture can take in different settings, but also
+the similarities of its effects. Its governance effect is seen most notably in the example from New
+Zealand where the logic and instruments of financial accounting was used to incentivize
+academic performance. Measurement and rankings serve a variety of political purposes. First,
+they appear to provide a more rational way of controlling institutions through new configurations
+of knowledge and power. Second, they are extremely effective in opening up for external
+scrutiny the inner worlds of organizations and they render commensurable and controllable all
+kinds of disparate individuals, institutions and objects with diverse and incommensurate features.
+Third, numbers exert a curiously seductive power (Porter 1996). Indicators are assumed to be
+objective and unambiguous because of their association with science and the ‘pure and constant
+rules of mathematics' (Merry 2011: S90). As Strathern (2000b:8) puts it, ‘an aura has come to
+surround numbers and, despite the caveats of professional auditors, it is those unfamiliar with
+financial auditing who tend to sanctify them'. Significantly, the people who are enamored by
+numerical rankings ‘tend to be those most distant from their production' (Sauder and Espeland
+2009: 72).
+The introduction of audit and accounting changes the nature of the organisations so that their
+activities become increasingly focused on the measures by which their performance is judged.
+Indeed, this belief that organisational behaviour can be engineered and improved through targets
+and elaborate procedures of internal audit is central to the advertising claims of the Big 4
+accountancy firms. They see this ‘domaining effect' as a positive outcome that delivers
+efficiency, commensurability and accountability (but critics might ask for whom and to whom?)
+The study by Sauder and Espeland shows the powerful domaining effect of numerical measures
+as they provide transposable templates for managerial control and make possible new forms of
+remote surveillance. ‘They are abstract, concise, easily portable; because they decontextualize so
+thoroughly they travel widely and are easy to insert into new places and for new uses' (Sauder
+and Espeland 2009: 71).
+These regimes of audit also create the categories into which people are invited to rethink
+themselves. This ‘classificatory effect' is viewed as delivering positive outcomes by those who
+sell and operate these systems, but again critics might point to the other (‘individualising and
+totalizing', 'governance' and 'perverse' effects) and draw different conclusions. All three case
+studies show the classificatory effects of rankings and the way they shift power away from
+professionals and onto managers and administrators. The use of numerical performance
+indicators has been highly instrumental in distinguishing a new class of technocrats (managers,
+accountants, administrators, human resources officers, executive leaders). They are tasked with
+controlling the organisation and ensuring it meets its targets and are separated from the
+professionals and workers who deliver the services and create value in the organisation.
+Quantitative indicators provide hard evidence for the claim that managers are improving quality
+or achieving measurable yardsticks of progress.
+When professionals contend that these regimes of accountability have 'perverse effects' and do
+not improve quality - or may even damage their institutions and services - they are often cut out
+of the conversation between the policy makers and the public. Indeed, according to ‘agency
+theory', professionals must be excluded from direct involvement in the management of an
+organisation to protect it from ‘institutional capture' (Olssen and Peters 2005).
+Our examples suggest that audit culture and its effects are having a number of negative
+consequences. Building on Power (2009: 333-4), the following can be highlighted:
+1. loss of organizational trust (Power 1994; O'Neill 2002);
+2. elaborate and wasteful gaming strategies (Shore and Wright 2000; Wright 2009; House of
+Commons 2004);
+3. a culture of compliance and large compliance costs, including the appointment of new
+specialists preoccupied with creating positive (mis)representations of performance
+(Miller 2003)
+4. defensive strategies and blamism that stifle innovation and focus on short-term objectives
+over long-term needs (Hood 2002)
+5. de-professionalization, a disconnect between motivation and incentives, lower employee
+morale and increased stress and anxiety (Brenneis et al. 2005; Bovbjerg 2011)
+6. 'tunnel vision' and performing to the measure with a focus solely on what is counted, to
+the exclusion of anything else (Townley and Doyle 2007)
+7. the undermining of welfare and educational activities that cannot be easily measured
+(King and Moutsou 2010).
+Given these combined effects, it seems imperative to find ways to re-claim the space for
+professionalism that are placed at risk by the spread of audit culture. Evidence from New
+Zealand and Denmark shows that some people are developing strategies for resistance. Sauder
+and Espeland (2009) explain how selective reporting on performance and control over the
+representation and legibility of activities is used to preserve space for the exercise of professional
+values. They call these tactics ‘buffering', but such strategies also carry risks of organizational
+schizophrenia (Shore and Wright 1999). Another potential strategy is to take back control over
+the measures used to evaluate professional performance by creating alternative experts and
+systems of evaluation and insisting that organisations be evaluated in their own terms. Again, the
+risk here is one of cooptation of professional values and their conversion into managerial
+indicators and instruments. After all, accountability, responsibility, quality, self-management and
+transparency are all values that professionals would normally espouse. This is another reason
+why it is so difficult to criticize or challenge audit as it often hinges on a redefinition of the
+words and ideas that auditees themselves hold dear (Wright 2005; Shore 2008). A further
+strategy would be to accept that numerical indicators are here to stay, but to change the focus of
+what counts. Instead of efficiency, economy and outputs one could develop other measures of
+success. For example, wellbeing, happiness and quality of life rather than GDP, as argued in the
+recently published report by Stiglitz et al. (2009). However, given the individualising and
+totalising nature of governing by numbers, as the New Zealand and Danish case studies show,
+the most successful antidote probably lies in collective action and a reassertion of academic and
+professional values. If there is power in numbers, there is also strength in numbers.
+
+## References
+
+
