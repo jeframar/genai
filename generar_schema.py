@@ -21,9 +21,16 @@ La extracción debe cumplir estrictamente con los siguientes lineamientos:
 
 2. Incluye la sección de referencias o bibliografía al final (sin citar su contenido).
 
-3. No fuerces subniveles o desagregaciones si el texto no las contiene.
+3. EXCLUYE explícitamente secciones administrativas, metadatos de autores y notas institucionales o legales. NO incluyas:
+   - "ORCID iDs" (o identificadores ORCID de autores)
+   - "Funding" / "Financial Support" / "Financiamiento"
+   - "Declaration of conflicting interests" / "Conflict of Interest" / "Declaración de conflictos de interés"
+   - "Acknowledgements" / "Agradecimientos"
+   - "Data Availability Statement" / "Disponibilidad de datos"
 
-4. El formato de salida debe ser exclusivamente un objeto JSON válido que respete la siguiente estructura jerárquica:
+4. No fuerces subniveles o desagregaciones si el texto no las contiene.
+
+5. El formato de salida debe ser exclusivamente un objeto JSON válido que respete la siguiente estructura jerárquica:
 
 {
   "titulo y subtitulo": "Título principal del documento",
@@ -76,11 +83,18 @@ def main():
         print("Error: No se encontró la variable de entorno GEMINI_API_KEY en el archivo .env o en el sistema.")
         sys.exit(1)
 
+    import argparse
+    parser = argparse.ArgumentParser(description="Genera la plantilla jerárquica schema.json a partir de un PDF.")
+    parser.add_argument("pdf_path", nargs="?", default=None, help="Ruta al archivo PDF. Si se omite, abre un explorador de archivos.")
+    args = parser.parse_args()
+
     # 1. Seleccionar archivo PDF
-    pdf_path = seleccionar_pdf()
+    pdf_path = args.pdf_path
     if not pdf_path:
-        print("Operación cancelada: No se seleccionó ningún archivo.")
-        sys.exit(0)
+        pdf_path = seleccionar_pdf()
+        if not pdf_path:
+            print("Operación cancelada: No se seleccionó ningún archivo.")
+            sys.exit(0)
 
     print(f"Archivo seleccionado: {pdf_path}")
 
@@ -96,7 +110,7 @@ def main():
         print("Analizando la estructura del PDF con Gemini...")
         start_time = time.perf_counter()
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3.5-flash",
             contents=[file_ref, PROMPT_ANALISIS],
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
