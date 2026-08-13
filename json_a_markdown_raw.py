@@ -26,15 +26,18 @@ def convertir_json_a_markdown_raw(data: dict) -> str:
                 if clave.isdigit() and isinstance(valor, dict):
                     procesar_nodo(valor, level)
                 elif isinstance(valor, str):
-                    # Título de sección / subsección
-                    hashes = "#" * min(level, 6)
-                    md_lines.append(f"{hashes} {clave}\n")
+                    es_presentacion = (clave.strip().lower() == "presentacion")
+                    if not es_presentacion:
+                        # Título de sección / subsección
+                        hashes = "#" * min(level, 6)
+                        md_lines.append(f"{hashes} {clave}\n")
                     
                     # Conservar el texto crudo exactamente como está en el JSON (sin limpieza ni modificación)
                     if valor and valor != "[Sin contenido en documento]":
                         md_lines.append(f"{valor}\n")
                     else:
-                        md_lines.append("*(Sin contenido)*\n" if valor == "[Sin contenido en documento]" else "\n")
+                        if not es_presentacion:
+                            md_lines.append("*(Sin contenido)*\n" if valor == "[Sin contenido en documento]" else "\n")
                 elif isinstance(valor, dict):
                     hashes = "#" * min(level, 6)
                     md_lines.append(f"{hashes} {clave}\n")

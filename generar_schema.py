@@ -28,9 +28,11 @@ La extracción debe cumplir estrictamente con los siguientes lineamientos:
    - "Acknowledgements" / "Agradecimientos"
    - "Data Availability Statement" / "Disponibilidad de datos"
 
-4. No fuerces subniveles o desagregaciones si el texto no las contiene.
+4. Cualquier sección o subsección puede contener contenido introductorio que no tiene un título explícito. En estos casos, se debe crear una etiqueta "presentacion" y asignarle "" (tanto en secciones como en subsecciones según corresponda).
 
-5. El formato de salida debe ser exclusivamente un objeto JSON válido que respete la siguiente estructura jerárquica:
+5. No fuerces subniveles o desagregaciones si el texto no las contiene.
+
+6. El formato de salida debe ser exclusivamente un objeto JSON válido que respete la siguiente estructura jerárquica:
 
 {
   "titulo y subtitulo": "Título principal del documento",
@@ -40,7 +42,11 @@ La extracción debe cumplir estrictamente con los siguientes lineamientos:
     },
     "2": {
       "Nombre de la Sección o Título 2": {
-        "Subnivel 2.1 (si lo hubiera)": ""
+        "presentacion": "",
+        "Subnivel 2.1 (si lo hubiera)": {
+          "presentacion": "",
+          "Sub-subnivel 2.1.1 (si lo hubiera)": ""
+        }
       }
     }
   }
@@ -77,6 +83,41 @@ def extraer_limpiar_json(texto: str) -> dict:
     return json.loads(texto_limpio)
 
 
+def subir_pdf_con_reintentos(client: genai.Client, pdf_path: str, max_reintentos: int = 3, espera_segundos: float = 8.0):
+    """Sube el archivo PDF a Gemini con manejo de reintentos ante errores de cuota (429)."""
+    for intento in range(1, max_reintentos + 2):
+        try:
+            return client.files.upload(file=pdf_path)
+        except Exception as e:
+            err_msg = str(e)
+            if intento <= max_reintentos and ("429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "Quota" in err_msg):
+                print(f"   [Aviso] Límite de cuota detectado al subir el PDF. Esperando {espera_segundos}s (intento {intento}/{max_reintentos + 1})...", flush=True)
+                time.sleep(espera_segundos)
+            else:
+                raise e
+
+
+def generar_schema_con_reintentos(client: genai.Client, file_ref, prompt: str, max_reintentos: int = 3, espera_segundos: float = 8.0):
+    """Genera la estructura schema.json a través de Gemini con reintentos ante errores de cuota (429)."""
+    for intento in range(1, max_reintentos + 2):
+        try:
+            return client.models.generate_content(
+                model="gemini-3.5-flash",
+                contents=[file_ref, prompt],
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.1
+                )
+            )
+        except Exception as e:
+            err_msg = str(e)
+            if intento <= max_reintentos and ("429" in err_msg or "RESOURCE_EXHAUSTED" in err_msg or "Quota" in err_msg):
+                print(f"   [Aviso] Límite de cuota detectado en consulta. Esperando {espera_segundos}s (intento {intento}/{max_reintentos + 1})...", flush=True)
+                time.sleep(espera_segundos)
+            else:
+                raise e
+
+
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
@@ -104,19 +145,12 @@ def main():
 
     try:
         print("Subiendo PDF a la API de Gemini...")
-        file_ref = client.files.upload(file=pdf_path)
+        file_ref = subir_pdf_con_reintentos(client, pdf_path)
         print(f"Archivo subido con éxito (ID: {file_ref.name})")
 
         print("Analizando la estructura del PDF con Gemini...")
         start_time = time.perf_counter()
-        response = client.models.generate_content(
-            model="gemini-3.5-flash",
-            contents=[file_ref, PROMPT_ANALISIS],
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-                temperature=0.1
-            )
-        )
+        response = generar_schema_con_reintentos(client, file_ref, PROMPT_ANALISIS)
         elapsed_time = time.perf_counter() - start_time
         print(f"Consulta a Gemini completada en {elapsed_time:.2f} segundos.")
 

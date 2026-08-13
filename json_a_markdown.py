@@ -83,9 +83,11 @@ def convertir_json_a_markdown(data: dict) -> str:
                 if clave.isdigit() and isinstance(valor, dict):
                     procesar_nodo(valor, level)
                 elif isinstance(valor, str):
-                    # Título de sección / subsección
-                    hashes = "#" * min(level, 6)
-                    md_lines.append(f"{hashes} {clave}\n")
+                    es_presentacion = (clave.strip().lower() == "presentacion")
+                    if not es_presentacion:
+                        # Título de sección / subsección
+                        hashes = "#" * min(level, 6)
+                        md_lines.append(f"{hashes} {clave}\n")
                     
                     # 1. Limpieza de footers/fechas coladas
                     contenido_limpio = limpiar_footers_y_headers(valor)
@@ -95,8 +97,9 @@ def convertir_json_a_markdown(data: dict) -> str:
                     if contenido_limpio and contenido_limpio != "[Sin contenido en documento]":
                         md_lines.append(f"{contenido_limpio}\n")
                     else:
-                        # Si el campo está en blanco, se conserva el título y se deja una línea libre
-                        md_lines.append("*(Sin contenido)*\n" if contenido_limpio == "[Sin contenido en documento]" else "\n")
+                        if not es_presentacion:
+                            # Si el campo está en blanco, se conserva el título y se deja una línea libre
+                            md_lines.append("*(Sin contenido)*\n" if contenido_limpio == "[Sin contenido en documento]" else "\n")
                 elif isinstance(valor, dict):
                     hashes = "#" * min(level, 6)
                     md_lines.append(f"{hashes} {clave}\n")

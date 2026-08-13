@@ -175,6 +175,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "google-genai" },
     { name = "json-repair" },
+    { name = "pdf-inspector" },
     { name = "python-dotenv" },
 ]
 
@@ -182,6 +183,7 @@ dependencies = [
 requires-dist = [
     { name = "google-genai", specifier = ">=1.68.0" },
     { name = "json-repair", specifier = ">=0.63.0" },
+    { name = "pdf-inspector", specifier = ">=1.14.1" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
 ]
 
@@ -277,6 +279,19 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/7d/88/600f1b41f3a0e383a2e95014c25fa9fdc5fb0d6d77323e7b8e9d517271e3/json_repair-0.63.0.tar.gz", hash = "sha256:27ce6724ede2eff84c39c7d142dbfcd07c3635ebb79e4fa8e81d1b57367a1cbe", size = 52085, upload-time = "2026-08-11T09:28:29.962Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/ed/84/1f5ee13057a3f6eec537664e95dfd71b94ac9e1bbf0a3ba8fc7f0c13b6f1/json_repair-0.63.0-py3-none-any.whl", hash = "sha256:e086519c8aba422a08f3b1c0882dcf5a0d2a47e65b450e3f23b224cdc12c545d", size = 50648, upload-time = "2026-08-11T09:28:28.717Z" },
+]
+
+[[package]]
+name = "pdf-inspector"
+version = "1.14.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/cc/7d/29ac7865f4c7332d28638d08b73aa6b7bf2f1325c383094bb6717a1a816d/pdf_inspector-1.14.1.tar.gz", hash = "sha256:e9d0fc1669ca77950d28488c8450d1aa28018e839ea260308d87253dfb8bec03", size = 1559937, upload-time = "2026-08-11T21:22:53.948Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/96/47/7ddacbcac7a04ec60014e2a03b943c4643a8bd794ed67588f5ebadfbeb15/pdf_inspector-1.14.1-cp38-abi3-macosx_10_12_x86_64.whl", hash = "sha256:b2159efa28f132df0442129a9b3eaf70c3f9915eb8202efcaaf759d85a01993f", size = 2855526, upload-time = "2026-08-11T21:22:44.66Z" },
+    { url = "https://files.pythonhosted.org/packages/98/24/00594b8ae250c0b8a87631a86067896416920879c43c8cdcdfeb50586d49/pdf_inspector-1.14.1-cp38-abi3-macosx_11_0_arm64.whl", hash = "sha256:54cb32691640e5684832d21fbb58d2b30c068cbc055e0157da37774c1e8b9218", size = 2767918, upload-time = "2026-08-11T21:22:46.768Z" },
+    { url = "https://files.pythonhosted.org/packages/cd/36/5b332c80858407fb19b34e6f18f6c99022d04324caf98b8aaf4547044871/pdf_inspector-1.14.1-cp38-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:501b8a6ffcd2c16ea74d71b9d7d70503c945c7d38c81151121790fd278021f0b", size = 2942959, upload-time = "2026-08-11T21:22:48.771Z" },
+    { url = "https://files.pythonhosted.org/packages/37/cc/589c355fed7b50098ddb9d09116c81d966c7b4ff78741183e600c1b4de6f/pdf_inspector-1.14.1-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:62e761a32ffd9c2b0c803dbefa2b0ad6f98bc26a75847571d99c3f7a65a7cea3", size = 3044612, upload-time = "2026-08-11T21:22:50.571Z" },
+    { url = "https://files.pythonhosted.org/packages/24/7c/4c84916a97cfd85d2e72dc3aaf6988cd19aff6e050d6a1b79d20f97e4566/pdf_inspector-1.14.1-cp38-abi3-win_amd64.whl", hash = "sha256:d4a2455c316e15eac745c3836f72b641e1c33207afb84c250abff2843209e527", size = 2690743, upload-time = "2026-08-11T21:22:52.407Z" },
 ]
 
 [[package]]
